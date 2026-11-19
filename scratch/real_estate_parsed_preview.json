@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "tag": "REAL ESTATE APP DEVELOPMENT",
+    "title": "Make Property Search Smarter with AI-Driven Real Estate Apps",
+    "desc": "We develop custom real estate apps that connect property listings, buyers, agents, and leads with AI-powered search, recommendations, and communication tools.",
+    "ctaText": "Book a Free 30-Minute Consultation",
+    "ctaHref": "https://calendly.com/invoidea/30min",
+    "note": "No obligation • Speak directly with our AI Solutions Team",
+    "formTitle": "Get a Real Estate Plan",
+    "formSubheading": "Start Your Project",
+    "formDesc": "Share your requirements, and our Real Estate AI experts will contact you.",
+    "bannerBg": "/assets/realestate-app-development-company-banner.webp",
+    "stats": [
+      {
+        "value": "1560+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "35+",
+        "label": "Countries Served"
+      },
+      {
+        "value": "98%",
+        "label": "Customer Retention"
+      },
+      {
+        "value": "8+Yrs",
+        "label": "In Industry"
+      }
+    ]
+  },
+  "leading": {
+    "tag": "Real Estate App Development Company in India",
+    "title": "Custom Real Estate Apps Built for Modern Property Businesses",
+    "paragraphs": [
+      "We’ve worked with brokers, builders, and property managers who needed something better than spreadsheets and outdated portals. Invoidea builds real estate apps that fit how your team actually works — not a generic template stretched to fit your business. As the top AI-powered real estate app development company in India, we bring data-driven capabilities into the workflow so the platform can recognise patterns, reduce repetitive work and support smarter decisions. The goal is simple: fewer manual steps, faster deals, and a platform that doesn’t fall apart when you scale up.",
+      "A lot of real estate platforms get built backwards — someone picks a tech stack first and tries to force the business into it. We do it the other way around. We start with how listings actually move through your business, where leads get lost, and what your team is doing manually that shouldn’t be, and then build the app around that."
+    ],
+    "image": "/assets/Building-realestate-Application-Interface.webp"
+  },
+  "services": {
+    "tag": "REAL ESTATE APP DEVELOPMENT SERVICES IN INDIA",
+    "title": "End-to-End Real Estate App Development Solutions",
+    "htmlSnippet": "<section class=\"industry-gradient-bg ptb\" style=\"background: #003e71;\">\n    <div class=\"container-fluid\" bis_skin_checked=\"1\">\n        <div class=\"row\" bis_skin_checked=\"1\">\n            <div class=\"col-lg-11\" bis_skin_checked=\"1\">\n                <h2 class=\"subheading\">\n                    REAL ESTATE APP DEVELOPMENT SERVICES IN INDIA\n                </h2>\n                <h3 class=\"heading-2 text-white\">\n                    End-to-End Real Estate App Development Solutions\n                </h3>\n                <p class=\"light-text\">\n                    As a trusted Real Estate app development Company in India, here’s what we typically build for real\n                    estate clients, depending on where they are in their growth. From property listing and lead\n                    management to custom platforms that streamline day-to-day operations, each solution is designed\n                    around specific business needs. We also incorporate intelligent capabilities that help teams work\n                    with their data, automate routine tasks and make more informed decisions as they scale:\n                </p>\n            </div>\n        </div>\n\n        <div class=\"ai-services\" bis_skin_checked=\"1\">\n\n            <!-- 01 -->\n            <div class=\"service-item\" bis_skin_checked=\"1\">\n                <div class=\"service-number\" bis_skin_checked=\"1\">\n                    01\n                </div>\n\n                <div class=\"service-content\" bis_skin_checked=\"1\">\n                    <h3>\n                        Custom Real Estate App Development\n                    </h3>\n\n                    <p>\n                        Every real estate business has its own workflows, user roles, data requirements, and operational\n                        processes. Our real estate app development company builds custom real estate apps around these\n                        requirements, from new digital products to completely tailored platforms, while structuring the\n                        application around how your business actually works.\n                    </p>\n                </div>\n            </div>\n\n            <!-- 02 -->\n            <div class=\"service-item\" bis_skin_checked=\"1\">\n                <div class=\"service-number\" bis_skin_checked=\"1\">\n                    02\n                </div>\n\n                <div class=\"service-content\" bis_skin_checked=\"1\">\n                    <h3>\n                        Real Estate App UI/UX Development\n                    </h3>\n\n                    <p>\n                        Real estate applications need to handle property searches, maps, filters, listings, images,\n                        enquiries and multiple user interactions without making the experience difficult to navigate. We\n                        design intuitive interfaces for mobile and web that make property discovery, lead handling and\n                        everyday workflows easier for everyone.\n                    </p>\n                </div>\n      "
+  }
+}

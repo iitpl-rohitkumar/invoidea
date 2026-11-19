@@ -1,0 +1,185 @@
+@import "tailwindcss";
+
+:root {
+  --theme-color-1: #f79b1f;
+  --theme-color-blue: #009fe3;
+  --sub-heading-color: #f79b1f;
+  --sub-heading-color-2: #0c77bd;
+  --text-color: rgba(255, 255, 255, 0.8);
+  --theme-btn: linear-gradient(90deg, #f79b1f 0%, #f16b22 100%);
+  --btn-outline-theme: #f79b1f;
+  --light-text: rgba(255, 255, 255, 0.7);
+  --dark-text: rgba(0, 0, 0, 0.7);
+  --theme-bg-light: rgba(11, 134, 200, 0.07);
+  --background: #ffffff;
+  --foreground: #171717;
+  --font-body: "Mulish", sans-serif;
+  --font-heading: "DM Serif Text", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: #171717;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.theme-bg {
+  background-color: #f1fbff !important;
+}
+
+.theme-bg-light {
+  background-color: #f1fbff !important;
+}
+
+/* Headings Typography */
+h1,
+h2:not(.subheading):not(.number h2),
+.heading-2 {
+  font-family: var(--font-heading);
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+/* Subheadings always sans-serif uppercase */
+.subheading,
+.subheading-text,
+h2.subheading,
+h3.subheading {
+  font-family: var(--font-body) !important;
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  color: #f79b1f !important;
+  letter-spacing: 0.5px !important;
+  margin-bottom: 12px !important;
+  line-height: 1.4 !important;
+}
+
+/* Card titles and elements */
+h3:not(.heading-2),
+h4,
+h5,
+h6 {
+  font-family: var(--font-body);
+}
+
+p,
+span,
+a,
+button,
+input,
+select,
+textarea,
+label {
+  font-family: var(--font-body);
+}
+
+/* Theme Button styling */
+.theme-btn,
+.btn.theme-btn {
+  background: var(--theme-btn) !important;
+  color: #ffffff !important;
+  font-family: var(--font-body) !important;
+  font-weight: 700 !important;
+  border: none !important;
+  border-radius: 50px !important;
+  padding: 12px 32px !important;
+  font-size: 15px !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 15px rgba(247, 155, 31, 0.3) !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.theme-btn:hover,
+.btn.theme-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(247, 155, 31, 0.45) !important;
+  color: #ffffff !important;
+}
+
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  transition: all 0.3s ease;
+}
+
+.main-header.is-stuck {
+  background: rgba(2, 22, 38, 0.95) !important;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* Universal Hero Section Header Offset - Prevents any overlap with header */
+.hero-section,
+.banner-section,
+.other-hero-section {
+  position: relative;
+  min-height: 620px;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  align-items: stretch !important;
+  padding-top: 155px !important;
+  padding-bottom: 60px !important;
+  box-sizing: border-box !important;
+}
+
+.hero-section .container,
+.banner-section .container,
+.other-hero-section .container {
+  margin-top: 0 !important;
+}
+
+@media (min-width: 1200px) {
+  .hero-section,
+  .banner-section,
+  .other-hero-section {
+    min-height: 660px;
+    padding-top: 165px !important;
+    padding-bottom: 75px !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .hero-section,
+  .banner-section,
+  .other-hero-section {
+    min-height: auto;
+    padding-top: 105px !important;
+    padding-bottom: 50px !important;
+  }
+}
+
+.banner-content-wrapper {
+  position: relative;
+  z-index: 2;
+}
+
+.hover-orange:hover {
+  color: var(--theme-color-1) !important;
+}
+
+.transition-all {
+  transition: all 0.3s ease;
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

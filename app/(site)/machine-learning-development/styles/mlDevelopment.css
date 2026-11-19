@@ -1,0 +1,87 @@
+/* Machine Learning Development Specific Page Styles */
+
+.mobile-app-main {
+  min-height: 500px;
+  height: min-content !important;
+  position: relative;
+}
+
+.mobile-app-main picture img {
+  position: absolute;
+  top: 0px;
+  height: 100%;
+  right: 0px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.mobile-app-main .container-fluid,
+.mobile-app-main .container {
+  position: relative;
+}
+
+.tailored-solutions-wrapper .box strong {
+  -webkit-text-stroke: 1px rgb(117 117 117 / 26%) !important;
+}
+
+.tailored-solutions-wrapper .box p {
+  color: #212529bf !important;
+}
+
+.tailored-solutions-wrapper .box:hover strong {
+  -webkit-text-stroke: 1px rgb(255 152 0 / 41%);
+}
+
+@media (max-width: 768px) {
+  .tailored-solutions-wrapper .box p {
+    width: 100%;
+  }
+  .Custom-built-box {
+    margin-bottom: 0px !important;
+    background: #fff;
+    position: sticky;
+    top: 100px;
+    padding-top: 24px;
+  }
+}
+
+.AI-powered-solutions-for-business-growth {
+  background-color: #021626;
+  position: relative;
+  overflow: hidden;
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button::after {
+  filter: invert(1);
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button:not(.collapsed)::after {
+  filter: invert(65%) sepia(85%) saturate(750%) hue-rotate(345deg);
+}
+
+.tailored-solutions-wrapper .Custom-built-box .box:hover {
+  transform: translateY(-6px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.step-by-step-approach-to-ai-excellence .box:hover {
+  transform: translateY(-5px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 10px 30px rgba(247, 155, 31, 0.15);
+}
+
+.AI-powered-solutions-for-every-industry .box:hover {
+  transform: translateY(-6px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 991px) {
+  .hero-section.other-hero-section {
+    padding-top: 100px;
+    padding-bottom: 60px;
+    min-height: auto;
+  }
+}
+

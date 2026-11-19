@@ -1,0 +1,114 @@
+/* AI Development Company Specific Page Styles */
+
+.mobile-app-main {
+  min-height: 500px;
+  height: min-content !important;
+  position: relative;
+}
+
+.mobile-app-main picture img {
+  position: absolute;
+  top: 0px;
+  height: 100%;
+  right: 0px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.mobile-app-main .container-fluid,
+.mobile-app-main .container {
+  position: relative;
+}
+
+.icon-main .fas {  
+  color: #f79b1f;
+  font-size: 30px;
+}
+
+@media (min-width: 1140px) {
+  .AI-powered-solutions-for-business-growth .accordion {
+    height: 500px !important;
+  }
+}
+
+.AI-powered-solutions-for-business-growth .image img {
+  height: 803px !important;
+}
+
+.AI-powered-solutions-for-business-growth .accordion-item p,
+.AI-powered-solutions-for-business-growth .accordion-item h3 {    
+  font-family: Mulish, sans-serif;
+}
+
+@media (min-width: 1024px) {
+  .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(5),
+  .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(6),
+  .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(7),
+  .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(8) {
+    border-bottom: 1px solid rgba(0, 0, 0, .2) !important;
+  }
+}
+
+.AI-powered-solutions-for-business-growth {
+  background-color: #021626;
+  position: relative;
+  overflow: hidden;
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button::after {
+  filter: invert(1);
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button:not(.collapsed)::after {
+  filter: invert(65%) sepia(85%) saturate(750%) hue-rotate(345deg);
+}
+
+.tailored-solutions-wrapper .box strong {
+  -webkit-text-stroke: 1px rgb(117 117 117 / 26%) !important;
+}
+
+.tailored-solutions-wrapper .box p {
+  color: #212529bf !important;
+}
+
+.tailored-solutions-wrapper .box:hover strong {
+  -webkit-text-stroke: 1px rgb(255 152 0 / 41%);
+}
+
+@media (max-width: 768px) {
+  .tailored-solutions-wrapper .box p {
+    width: 100%;
+  }
+  .Custom-built-box {
+    margin-bottom: 0px !important;
+    background: #fff;
+    position: sticky;
+    top: 100px;
+    padding-top: 24px;
+  }
+}
+
+.tailored-solutions-wrapper .box:hover {
+  transform: translateY(-6px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 10px 30px rgba(247, 155, 31, 0.15);
+}
+
+.AI-powered-solutions-for-every-industry .box:hover {
+  transform: translateY(-6px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.our-Trusted-AI-and-ML-development-partner .content-box:hover h5 {
+  color: #f79b1f;
+  transition: color 0.2s ease;
+}
+
+@media (max-width: 991px) {
+  .hero-section.other-hero-section {
+    padding-top: 100px;
+    padding-bottom: 60px;
+    min-height: auto;
+  }
+}

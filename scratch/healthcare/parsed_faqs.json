@@ -1,0 +1,50 @@
+[
+  {
+    "q": "How much does it cost to develop a healthcare app?",
+    "a": "The cost of developing a healthcare app varies with kind of app, its features, complexity of the application, number of user roles, third party integrations,?security layer, regulations and protocols, technology stack. A simple healthcare MVP could be an order?of magnitude less expensive than a multi-role platform with telemedicine, EHR/EMR integration, AI, remote patient monitoring, or complex clinical workflows. Invoidea will?offer project specific quotes, after a preliminary discussion about your requirements, integrations and compliances."
+  },
+  {
+    "q": "How long does it take to develop a healthcare app?",
+    "a": "A healthcare app can take from a couple of months for a targeted MVP to a year or more for a full fledged platform. The timeframe depends on the features involved, platforms, integrations, compliance, testing, as well as whether the product is built from scratch or whether it is modernized from an existing system. Invoidea can scope and roadmap the development prior to development."
+  },
+  {
+    "q": "Can you develop a HIPAA-compliant healthcare app?",
+    "a": "Yes. Invoidea can develop healthcare applications designed to support HIPAA requirements when the project involves protected health information (PHI). HIPAA considerations can be incorporated into the application's architecture, access controls, audit logging, encryption, data handling, hosting environment, and third-party services. Where required, appropriate contractual arrangements such as a Business Associate Agreement (BAA) are established before applicable PHI processing begins."
+  },
+  {
+    "q": "Can you build GDPR-compliant healthcare apps for UK and European customers?",
+    "a": "Yes. Invoidea builds healthcare apps (in a native or web technology stack) with applicable GDPR?requirements, including privacy by design, data minimization, access controls, consent and privacy workflows, data retention, user rights and suitable protections for transfers of data across international borders. The relevant requirements for?UK projects may be the UK GDPR and the Data Protection Act 2018, depending on the nature of the the application's function and data processing."
+  },
+  {
+    "q": "Can a healthcare app integrate with EHR and EMR systems?",
+    "a": "Yes. Healthcare applications can be connected to EHR and EMR systems through interoperability standards and APIs provided by the respective healthcare system. Integrations may use HL7, HL7 FHIR, REST APIs or a vendor-proprietary interfaces, depending on the project. How the integration is done is very specific to the healthcare provider, the EHR vendor, what APIs they provide, and the information they want as well as the model of authorization."
+  },
+  {
+    "q": "Can AI be integrated into a healthcare application?",
+    "a": "Yes. AI can be embedded into healthcare solutions for use cases such as conversational assistants, patient enablement, clinical documentation, summarization of medical data, risk prediction, personalized recommendations, workflow automation, image analysis, and intelligent search. The ideal AI architecture will be different depending on the intended use, sensitivity of data, requirements for accuracy, whether humans will have oversight, and what the relevant regulations state."
+  },
+  {
+    "q": "Can you add telemedicine and video consultation features to a healthcare app?",
+    "a": "Yes. Invoidea can build telemedicine solutions with a host of capabilities including secure video consultations, booking of appointments, provider-patient communication, notifications, digital records, payments, and admin dashboards."
+  },
+  {
+    "q": "Can you create healthcare apps for iOS and Android?",
+    "a": "Absolutely. Invoidea provides development of healthcare apps for iOS and Android. Based on your project needs, we develop with native technologies or cross-platform solutions, e.g., Flutter or React Native. We can integrate with established healthcare systems, or we can create an appointment scheduling workflow based on the specifics of healthcare workflow."
+  },
+  {
+    "q": "What security features should a healthcare app have?",
+    "a": "Generally, healthcare applications have to be well-secured because they deal with high potential of?sensitive personnels information and other related information. Based on the scope and type of project, Invoidea can support with encryption, role-based access, multi-factor authentication, secure APIs, audit logs,?session management, secure data storage, app and/or infrastructure vulnerablity testing, monitoring and additional app and infrastructure security measures."
+  },
+  {
+    "q": "Is it possible to modernize or upgrade an existing healthcare app?",
+    "a": "Yes. It can analyze?an existing healthcare app and develop a modernization roadmap for its architecture, codebase, UX, security, performance, integrations, and relevant compliance requirements. Depending on?the case, we can enhance the existing system in phases or reengineer particular modules without causing an undue interruption to day-to-day business."
+  },
+  {
+    "q": "How do you approach healthcare app maintenance post launch?",
+    "a": "The development of healthcare apps never?stop at the release. Invoidea offers continued application support and maintenance, security?patches, bug fixes, performance monitoring, infrastructure support, API and integration updates, compliance driven enhancements, and new feature development driven by evolving application needs."
+  },
+  {
+    "q": "Who owns the healthcare app and source code after development?",
+    "a": "Ownership depends on the terms agreed in the project contract. Invoidea can structure engagements so that the client receives the agreed intellectual property, source code, design assets, documentation, and other project deliverables upon meeting the contractual requirements. Third-party software, APIs, libraries, and licenses remain subject to their respective terms."
+  }
+]

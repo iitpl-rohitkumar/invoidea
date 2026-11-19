@@ -1,0 +1,431 @@
+.banner-content-wrapper { padding: 1.5rem 0px; }
+
+.ot-heading p.banner-heading, h1, h2, h3, h4, h5, h6 { font-weight: 600; line-height: 1.2; margin: 0px 0px 20px; color: rgb(6, 6, 7); }
+
+.ot-heading p.banner-heading, .privacy-policy h1, .term-condition h1 { font-size: 31px; }
+
+.banner, .industries-banner { padding: 100px 0px; }
+
+.banner { min-height: 420px; }
+
+#back-to-top i::after, #back-to-top i::before, .AI-powered-solutions-for-business-growth p, .ai-and-ml-development .accordion-body h4, .btn-light, .fs-16, .fs-17, .header-menu span.dropdown-menu-wrapper .menu-title, .icon-box-s2 .content-box p, .inner-page-wrapper p.small, .ot-icon-box .icon-box-btn i::before, .pagination li a i::before, .pagination li span i::before, .privacy-policy, .search-form .search-submit i::after, .search-form .search-submit i::before, .service-box-wrapper h3, .side-navbar i, .sidebar-modal .flaticon-phone-1::before, .widget-footer .social-list li i, blockquote, body, p, section.Food-Delivery-App-Solution p { font-size: 16px; }
+
+.Logo-design-page .Website-Design-bottom .col-md-12.col-lg-7, .Website-Design .main-icon-box, .What-We-Offer-img-section, .ai-and-ml-development .our-Trusted-AI-and-ML-development-partner .col-md-6 .row .col-3, .application-solution-benifits .content-box h5, .astrology-application-development .testimonials-slider-wrap, .blog-wrapper, .border-left .box-style2, .border-right .box-style2, .cms-modules-we-deliver ul li, .contact-testi-card, .custom-benifits-section, .custom-steps, .different-industries-img, .feature-item span, .food-delivery-application section.Features .number, .food-industries-img, .header-topbar, .hero-form-card .input, .icon-box-s2 .content-box, .inner-entry-content, .inner-wrapper .services, .iot-app-development .features-chatbots, .main-menu, .octf-btn-cta, .our-comprehensive-services .col-lg-8, .page-header, .portfolio-slider-section .image-wrap, .process-steps, .products-page .aboutus .container, .products-page .software-development-image, .radio-box, .search-form, .service-wrapper-container, .service2-area, .steps-box, .technology-bg, .testimonial-section, .topbar_languages > div, .web-design-page .Website-Design-bottom .col-md-12.col-lg-7, blockquote, body, section.Benefits .nummber, sub, sup { position: relative; }
+
+.banner-wrapper li, .font-size-18, .fs-18, .industries-ecommerce-provider-wrapper h5, .inner-wrapper .fs-18, .lead, .mobileapp-services .choose-box h5, .pgrid .inner-post h3, .service2-card h3, .slick-arrow i::before, .social-service .icon-box-s3.i7 h5, .text-custom-size, .thankyou-page-wrapper p { font-size: 18px; }
+
+#consultation-modal h3, .banner-wrapper .fs-40, .owl-theme .owl-nav span { font-size: 40px; }
+
+.author-box, .awards-section .award-text, .copyright, .feature-item p, .font14, .footer-area a, .fs-15, .header-topbar, .key-features-wrapper .box .content p, .mobile-section p, .ot-pricing-table-s2.s2 .title-table, .posted-on a, .technology-bg p { font-size: 14px; }
+
+#site-logo img.logo-static, .Logo-design-page .Web-Design-Services .taber-list-wraper .active, .Logo-design-page .Web-Design-Services .taber-list-wraper .content-box.active, .Logo-design-page .Web-Design-Services .taber-list-wraper .item-image.active, .content-wrapper.show, .digital-marketing .highlighted-features .nav-tabs .nav-link.active p, .footer-area .footer-top .left-content .footer-clients img, .footer-area .footer-top .left-content .logo img, .gallery-caption, .icon-box-s2.s1 .icon-main span, .icon-box-s2.s3 .icon-main span, .is-stuck #site-logo img.logo-scroll, .tab .tabs_item:first-child, .tabs section.active, .tabs > ul li, .technologies-stack .tabs section.active, .technologies-stack .tabs > ul li, details, section.Functionality .inner-tabber .nav-tabs .nav-item .nav-link.active p { display: block; }
+
+#site-logo img.logo-scroll, .Logo-Design::before, .Logo-design-page .Web-Design-Services .taber-list-wraper .content-box, .Logo-design-page .Web-Design-Services .taber-list-wraper .item-image, .contact-client-owl .owl-dots, .contact-client-owl .owl-nav, .digital-marketing .highlighted-features .nav-tabs .nav-link .row, .digital-marketing .highlighted-features .nav-tabs .nav-link p, .file-field input, .food-delivery-application .banner-section::after, .gallery-columns-6 .gallery-caption, .gallery-columns-7 .gallery-caption, .gallery-columns-8 .gallery-caption, .gallery-columns-9 .gallery-caption, .header-menu .description, .header-menu .industries .description, .header-menu .industries .long-title, .header-menu .services .block-group .dropdown-menu-wrapper, .header_mobile, .hero-slider .swiper-pagination-bullet, .hero-style .swiper-button-next::after, .hero-style .swiper-button-prev::after, .industries .content-wrapper, .industries-expert-box h4, .is-stuck #site-logo img.logo-static, .mobile-app-development-wrapper .service-wrapper-container::after, .mobile-app-development-wrapper .services::after, .mobile-mask, .mobile-menu-user-menu > li:last-child::after, .mobile-show, .modal label, .nda-checkbox, .nda-text, .offcanvas-menu li .mobile-sub-menu, .ot-accordions .acc-item .acc-toggle i.up, .ot-accordions .acc-item.current .acc-toggle i.down, .ot-counter.v3 h6::before, .ot-pricing-table .inner-table .details.no-icon ul li::before, .ot-pricing-table-s2 .price .per-year, .ot-pricing-table-s2 .price .price-2, .page-header .breadcrumbs li:first-child::before, .pgrid .inner-post .comment-num, .plan_table tr.child.hidden, .products-page .erp-aboutus .container::before, .products-page .software-development-image-wrap .software-development-image::before, .projects-style-1 .projects-box .portfolio-info .portfolio-cates span:last-child, .side-navbar .hamburger-lines, .side-navbar input[type="checkbox"], .step:last-child::before, .steps-box li:first-child::before, .tab .tabs_item, .widget .recent-news h6 a::before, [hidden] { display: none; }
+
+.blog-post .tagcloud a:hover, .key-moduls-wrapper .nav-tabs .nav-link.active, .mobile-app-development-wrapper section.service-wrapper-container .contact-btn a.octf-btn:hover, .octf-btn, .octf-btn.octf-btn-light:focus, .octf-btn.octf-btn-light:hover, .octf-btn.octf-btn-second, .octf-btn:focus, .octf-btn:hover, .ot-button-outline a:hover, .ot-pricing-table-s2 .table-btn:hover, .ot-pricing-table-s2.s2 .table-btn:hover, .portfolio-tab ul .active, .portfolio-tab ul li:hover, .products-page .cms-middle-banner .contact-btn a:hover, .products-page .cms-middle-banner .contact-btn button:hover { background: rgb(41, 171, 226); color: rgb(255, 255, 255); }
+
+.mobile-menu-social > li:last-child, .mobile-menu-user-menu > li:last-child, .octf-btn-cta .toggle_search.i8, .project_filters li:last-child, .social-list li:last-child, section.Functionality .inner-tabber .nav-tabs .nav-item:not(:last-child), section.Functionality .inner-tabber .nav-tabs .nav-link { margin-right: 0px; }
+
+.menu-banner { margin-top: 20px; }
+
+.menu-banner > a { display: block; width: 100%; }
+
+.application-solution-benifits .col-lg-12.col-md-12:last-child .content-box h5::after, .custom-api-section::after, .hero-slider .swiper-container, .inv-review-slider .owl-item > .inv-review-link, .menu-banner img, .mobile-menu-customer-support-icon img, .our-portfolio .box-wrap img, .plan_table, .portfolio-tabs button.active::after, .portfolio-tabs button:hover::after, .post-box .audio-box iframe, .quote-form .overlay, .sidebar-modal, .space-1, .space-10, .space-100, .space-105, .space-110, .space-115, .space-120, .space-130, .space-140, .space-15, .space-150, .space-2, .space-20, .space-25, .space-26, .space-3, .space-30, .space-35, .space-4, .space-40, .space-45, .space-5, .space-50, .space-55, .space-60, .space-65, .space-70, .space-75, .space-80, .space-85, .space-90, .space-95 { width: 100%; }
+
+.banner_destacados_wrapper .gallery_wrapper .owl-stage-outer .owl-stage, .mobile-menu-customer-support { display: flex; align-items: center; justify-content: center; }
+
+.banner_destacados_wrapper .owl-nav .owl-next:hover, .banner_destacados_wrapper .owl-nav .owl-prev:hover, .category-div .content:hover .content-overlay, .client-logo-pic img:hover, .col-box:hover .col-box-inner .offer-section-content h5 img, .menu-mega .ul-submenu li a:hover i, .products-page .choose-box:hover::after, .projects-style-1 .projects-box:hover .portfolio-info, .service-tab-wrapper .tab button.active img, .sidebar-modal .sidebar-modal-inner .close-btn:hover { opacity: 1; }
+
+.banner-wrapper p, .seo-services .single-services-box h3, .single-career h4, .typography-no { font-size: 20px; }
+
+.Content-Marketing .success-section .box, .banner, .carousel-nav, .client-carousel-mobile a, .iot-app-development.ai-and-ml-development .AI-powered-solutions-for-every-industry .box, .marquee-inner p, .marquee-wrapper, .mobile-app-development .textbox h5, .mobile-app-development .textbox p, .online-reputation .success-section .box, .ot-counter, .owl-dots, .price-table tr td:not(:first-child), .screenshot_slider .owl-nav, .testimonial-slides .owl-dots { text-align: center; }
+
+section.Benefits .content h5 { color: rgb(0, 0, 0); margin-bottom: 10px; }
+
+.column-header, .cutom-step-num, .our-expertise .icon-box-s3 { place-items: center; }
+
+.astrology-application-development .banner-content-wrapper ul, .menu-tabber .taber-content p, .online-reputation .highlighted-features ul li, .ot-pricing-table-s2 .details { margin-bottom: 20px; }
+
+#newsletter_pop_up .close-popup, .carousel-caption p.small-text, .casestdy_itm, .detail-btn, .food-delivery-application .banner-section h2, .footer-area .list-item h4, .footer-links h3, .portfolio-tab ul li, .process__title { text-transform: uppercase; }
+
+.feature-left .service-item, .feature-right .service-item { z-index: 1; transition: 0.5s; position: relative; padding: 30px 20px; border-radius: 7px; margin-bottom: 30px; background-color: rgb(234, 235, 236); }
+
+.feature-left .service-item h4, .feature-right .service-item h4 { font-size: 18px; color: rgb(0, 0, 0); margin-bottom: 9px; }
+
+.feature-left .service-item p, .feature-right .service-item p { line-height: 1.4; color: rgba(32, 32, 32, 0.7); }
+
+.feature-left .service-item span, .feature-right .service-item span { font-size: 141px; position: absolute; text-align: center; margin: auto; inset: -13px 0px 0px; color: rgba(178, 175, 175, 0.09); }
+
+.inner-page-banner { position: absolute; top: 0px; right: 0px; height: 100%; max-width: 50%; display: flex; -webkit-box-pack: end; justify-content: flex-end; -webkit-box-align: start; align-items: flex-start; overflow: hidden; }
+
+.inside-banner h2 { font-size: 45px; line-height: 1.2; }
+
+.blog-main-subtitle ul li::before, .iti__country-name, .slider-banner { display: none !important; }
+
+.case-study-banner h5, .form-wrap label, .price-table tr th { font-weight: 600; }
+
+.banner-wrapper h2 { font-size: 50px; line-height: 1.2; }
+
+.banner-wrapper i { width: 26px; height: 26px; border-radius: 50%; background-color: rgb(41, 171, 226); padding: 6px; font-size: 14px; color: rgb(255, 255, 255); }
+
+.application-page .single-featured-box:hover .icon, .common-grid-step:hover, .common-project:hover, .mobile-app-development-wrapper .banner-content-wrapper .octf-btn:hover, .premium-story, .products-page .middle-banner.cms-middle-banner .octf-btn, .service2-card, .services .solution-box, .stat-box, .stats-wrapper { background: rgb(255, 255, 255); }
+
+.banner_destacados_wrapper .gallery_wrapper .owl-stage-outer .owl-stage .owl-item .item { position: relative; height: 400px; overflow: hidden; }
+
+.banner_destacados_wrapper .gallery_wrapper .owl-stage-outer .owl-stage .owl-item .item img { width: 100%; height: 100%; object-fit: cover; }
+
+.banner_destacados_wrapper .gallery_wrapper .owl-stage-outer .owl-stage .owl-item.active.center { opacity: 1; border: 7px solid rgba(229, 229, 229, 0.65); border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.43) -1px 2px 10px; }
+
+.banner_destacados_wrapper .gallery_wrapper .owl-stage-outer .owl-stage .owl-item.active.center .item, .industry-banner-h { height: 500px; background-size: 100% auto !important; }
+
+.banner_destacados_wrapper .owl-nav { position: absolute; top: 50%; bottom: 50%; margin: auto; width: 100%; font-size: 30px; display: block !important; }
+
+.banner_destacados_wrapper button.owl-next { right: -26px; position: absolute; }
+
+.banner_destacados_wrapper .owl-nav .owl-next, .banner_destacados_wrapper .owl-nav .owl-prev { width: 40px; background: rgb(41, 171, 226); box-shadow: rgba(0, 0, 0, 0.43) 0px -1px 3px; height: 40px; border-radius: 4px; line-height: 0; color: rgb(255, 255, 255); opacity: 0.6; transition: 0.3s; }
+
+.banner_destacados_wrapper .owl-nav .owl-prev { position: absolute; left: -26px; }
+
+.Social-Media-Marketing .highlighted-features .inner-page-banner, .Social-Media-Marketing section.process-wrapper .inner-page-banner { max-width: 35%; }
+
+.astrology-testimonials .Astrology-left ul, .banner-section, .case-study-wrapper ul.typography-list li, .contact-client-owl .owl-stage, .contact-testimonial-owl .owl-stage, .different-industries-wrapper .different-industries-img-title, .digital-marketing .highlighted-features .nav-tabs .nav-link ul li, .food-main-heading-banner, .industry-banner-wrapper .banner-wrapper, .industry-main-heading-banner, .team-owl .owl-stage, .testimonials-box ul li, section.highlighted-features .nav-tabs .nav-link ul li { display: flex; align-items: center; }
+
+.banner-section p.small { font-size: 15px; line-height: 1.3; }
+
+.application-page .What-We-Offer, .application-page .middle-banner, .banner-section .container, .brand-design-page .Website-Design-top, .card-box:hover .product-detail p { z-index: 1; }
+
+.banner-section .ot-heading p { color: rgba(255, 255, 255, 0.9); font-size: 16px; font-weight: 400; margin-bottom: 16px; }
+
+.case-study-banner span, .case-study-banner span.sub-title { margin-bottom: 8px; }
+
+.case-study-wrapper .case-study-main-banner, .project-content { padding: 20px 24px; }
+
+.case-study-wrapper .case-study-banner { background: linear-gradient(95deg, rgb(255, 242, 242) 0px, rgb(250, 202, 202) 126.23%); border-radius: 10px; }
+
+.case-study-wrapper .jan-seva-wrapper .case-study-banner { border-radius: 10px; background: linear-gradient(95deg, rgb(241, 249, 255) 0px, rgb(124, 176, 221) 126.23%); }
+
+.case-study-banner .right-side-img { position: relative; top: 47px; }
+
+.case-study-banner span.sub-title { font-size: 16px; font-weight: 400; text-transform: uppercase; color: rgba(0, 0, 0, 0.5) !important; }
+
+.case-study-banner .title-i7 { color: rgb(0, 0, 0); font-size: 50px; font-weight: 800; margin-bottom: 37px; }
+
+.case-study-banner span { color: rgb(192, 35, 50); font-size: 15px; font-weight: 600; letter-spacing: 0.45px; display: block; }
+
+.case-study-banner h5, .case-study-wrapper .ot-heading > .case-study-sub-heading { font-size: 17px; letter-spacing: 0.51px; color: rgba(0, 0, 0, 0.62); }
+
+.case-study-wrapper .rayartwala-wrapper .case-study-banner span, .case-study-wrapper .rayartwala-wrapper .case-study-ttile strong { color: rgb(97, 16, 106); }
+
+.case-study-wrapper .jan-seva-wrapper .case-study-banner span, .case-study-wrapper .jan-seva-wrapper .case-study-heading, .case-study-wrapper .jan-seva-wrapper .case-study-ttile strong, .case-study-wrapper .jan-seva-wrapper section.design-system-wrapper h3 { color: rgb(30, 110, 179); }
+
+.mobile-app-development-wrapper .banner-content-wrapper .octf-btn, .products-page .contact-btn a, .seo-service-section .bg-blue, .web-design-page .contact-btn a, .web-design-page .contact-btn button { border-radius: 5px; background: rgb(41, 171, 226); }
+
+.nav-tabs .nav-link, .nav-tabs .nav-link:hover, :not(.btn-check) + .btn:active, section.Functionality .nav-tabs .nav-link { border: 0px; }
+
+.food-delivery-application section.Features .content h5, section.Benefits .content h5, section.Benefits .nummber strong { font-size: 18px; letter-spacing: 0.54px; font-weight: 700; }
+
+section.Benefits p { text-align: center; font-size: 17px; font-weight: 500; letter-spacing: 0.51px; }
+
+section.Benefits .nummber strong { color: rgb(247, 155, 31); -webkit-text-stroke-color: rgb(247, 155, 31); }
+
+section.Benefits .nummber strong::after { content: ""; background-image: url("../assets/images/icons/food-Line.webp"); background-repeat: no-repeat; width: 100%; height: 16px; background-size: contain; position: absolute; left: 35px; top: 5px; }
+
+section.Benefits .content p { text-align: left; font-size: 17px; font-weight: 500; letter-spacing: 0.51px; }
+
+section.Functionality h2.main-heading.mb-2 span { color: rgb(247, 155, 31); font-size: 30px; font-weight: 700; line-height: normal; }
+
+.food-delivery-application section.Features .content .row:not(:last-child), section.Benefits .col-lg-6 .row:not(:last-child) { margin-bottom: 50px; }
+
+section.Functionality { background: url("../assets/images/background/innerpage/functionality-bg.webp") right center / cover no-repeat; }
+
+section.Functionality .nav-tabs .nav-link { color: rgba(0, 0, 0, 0.5); font-size: 20px; font-weight: 500; letter-spacing: 0.6px; transition: 0.3s linear; padding-left: 0px; padding-right: 0px; }
+
+section.Functionality .nav-tabs .nav-item:not(:last-child) { margin-right: 80px; }
+
+section.Functionality .nav-tabs .nav-link.active { color: rgb(247, 155, 31); font-size: 22px; font-weight: 700; letter-spacing: 0.66px; padding-left: 0px; padding-right: 0px; background: 0px 0px; border-width: 0px 0px 3px; border-style: none none solid; border-color: currentcolor currentcolor rgb(247, 155, 31); border-image: none; }
+
+section.Functionality .inner-tabber .nav-tabs .nav-item .nav-link::after { border-radius: 12px; background: rgb(247, 155, 31); content: ""; position: absolute; left: -25px; top: 22px; width: 12px; height: 12px; }
+
+section.Functionality.industries-functionality-wrapper .inner-tabber .nav-tabs .nav-item .nav-link::after { left: 0px; top: 6px; }
+
+section.Functionality .inner-tabber .nav-tabs .nav-item .nav-link.active::after, section.Functionality.industries-functionality-wrapper .inner-tabber .nav-tabs .nav-item .nav-link.active::after { background-image: url("../assets/images/icons/list-icon.png"); background-size: cover; background-color: transparent; width: 25px; height: 25px; top: 15px; left: -32px; }
+
+section.Functionality.industries-functionality-wrapper .inner-tabber .nav-tabs .nav-item .nav-link.active::after { top: 2px; left: -6px; }
+
+section.Functionality .inner-tabber .nav-tabs { width: 40%; border: 0px; display: block; padding-left: 30px; }
+
+section.Functionality .inner-tabber .tab-content { width: 60%; }
+
+section.Functionality .inner-tabber .nav-tabs .nav-item { border-radius: 10px; padding: 0px; width: 100%; }
+
+section.Functionality .inner-tabber .nav-tabs .nav-item .nav-link.active { background-color: rgb(255, 255, 255); border-radius: 10px; padding: 15px; font-size: 20px; line-height: 24px; color: rgba(0, 0, 0, 0.7); font-weight: 500; }
+
+section.Functionality.industries-functionality-wrapper .inner-tabber .nav-tabs .nav-item .nav-link, section.Functionality.industries-functionality-wrapper .inner-tabber .nav-tabs .nav-item .nav-link.active { padding-left: 2rem; }
+
+section.Functionality .inner-tabber { margin-top: 15px; display: flex; flex-wrap: wrap; }
+
+section.Functionality .icon-taber { display: flex; justify-content: flex-end; width: 100%; }
+
+section.Functionality .icon-taber button + button { margin-left: 20px; }
+
+section.Functionality .icon-taber button { border: 0px; background: 0px 0px; padding: 0px; }
+
+section.Functionality .inner-tabber .nav-tabs .nav-item .nav-link { font-size: 18px; line-height: 21.6px; color: rgba(0, 0, 0, 0.66); font-weight: 500; padding: 15px; letter-spacing: 0.48px; border: 0px; position: relative; }
+
+section.Functionality .inner-tabber .nav-tabs .nav-item .nav-link p { font-size: 16px; letter-spacing: 0.48px; line-height: 20.4px; color: rgba(0, 0, 0, 0.4); margin: 10px 0px; display: none; }
+
+section.Functionality .nav-link:focus-visible { box-shadow: none; }
+
+.banner-section .container { z-index: inherit; }
+
+section.Functionality .ot-heading .main-heading span { color: rgb(247, 155, 31); font-size: 30px; margin: 0px; display: inline-block; }
+
+.real-estate-application .banner-section .container { padding-top: 5rem; padding-bottom: 5rem; }
+
+.middle-banner .ot-heading h3 { color: rgb(255, 255, 255); font-size: 40px; font-weight: 700; }
+
+.lead-generation-wrapper .lead-generation-middle .container, .middle-banner .container, .paid-marketing .middle-banner .container { padding: 40px; border-radius: 12px; }
+
+.lead-generation-wrapper .middle-banner .position-relative::after { position: absolute; content: ""; background: rgb(204, 204, 204); width: 1px; height: 100%; top: 0px; right: 0px; }
+
+.lead-generation-wrapper .middle-banner .box p { color: rgba(255, 255, 255, 0.8); font-size: 16px; font-weight: 400; letter-spacing: 0.48px; }
+
+.lead-generation-wrapper .middle-banner .box h5 { color: rgb(255, 255, 255); font-size: 18px; font-weight: 700; letter-spacing: 0.54px; }
+
+.digital-marketing .middle-banner .container { padding: 40px 60px; border-radius: 12px; }
+
+.digital-marketing .highlighted-features .nav-tabs, .menu-tabber .inner-tabber .nav-tabs { flex-direction: column; border: 0px; }
+
+.digital-marketing .middle-banner .col-md-4 { position: absolute; right: 70px; top: 43px; }
+
+.app-store-optimization-services .process-wrapper .inner-page-banner { background-repeat: no-repeat; height: 100%; width: 40%; max-width: 40%; top: 23%; background-size: contain; }
+
+.food-main-heading-banner, .grocery-main-heading-banner, .industry-main-heading-banner, .online-reputation-management-wrapper { height: 600px; }
+
+.mobile-app-development .banner h2.heading, .mobile-app-development .banner ul.text-dark li span { color: rgb(10, 49, 100) !important; }
+
+.ai-band-item:hover h3, .card-icon, .flow-card h6, .platform-feature-item i, .process-box:hover h2, .products-page h2 span, .vet-module-nav .nav-link.active .module-no { color: rgb(247, 155, 31); }
+
+.products-page .banner { min-height: calc(-200px + 100vh); display: flex; align-items: center; }
+
+.products-page .middle-banner .ot-heading h3 { font-size: 30px; font-weight: 700; }
+
+.application-page .middle-banner .contact-btn a, .applicatipxon-page .middle-banner .contact-btn button, .products-page .middle-banner .contact-btn a, .products-page .middle-banner .octf-btn { border-radius: 10px; background: linear-gradient(96deg, rgb(41, 171, 226) 0px, rgb(22, 94, 124) 100%); border: 0px; }
+
+.products-page .customer-banner .number strong { font-size: 160px; font-weight: 900; display: block; text-align: right; color: rgba(255, 255, 255, 0.4); }
+
+.products-page .customer-banner .col-lg-3:first-child { width: 22%; }
+
+.products-page .customer-banner .col-lg-3:last-child { width: 28%; }
+
+.products-page .customer-banner .content h5 { color: var(--Bg-Light-1, #fff); font-size: 30px; font-weight: 900; margin-bottom: 14px; }
+
+.products-page .customer-banner .content p { color: var(--Bg-Light-1, #fff); line-height: normal; }
+
+.products-page .customer-banner { padding: 40px; border-radius: 20px; border: 1px solid rgb(238, 250, 255); background: linear-gradient(96deg, rgb(12, 119, 189) 0px, rgb(247, 155, 31) 100%); }
+
+.application-page .middle-banner .container { border-radius: 10px; padding: 40px; position: relative; }
+
+.application-page .middle-banner .ot-heading p { color: var(--Bg-Light-1, #fff); font-size: 18px; font-weight: 400; letter-spacing: 0.54px; }
+
+.application-page .middle-banner .octf-btn:hover, .products-page .middle-banner .octf-btn:hover { transform: none !important; box-shadow: none !important; color: rgb(255, 255, 255) !important; }
+
+.menu-tabber .inner-tabber .nav-tabs .nav-link { border: 0px; color: rgba(0, 0, 0, 0.5); font-size: 18px; font-weight: 600; padding: 15px 0px; }
+
+.menu-tabber .inner-tabber .nav-tabs .nav-link.active { color: rgb(11, 160, 219); font-weight: 700; border-bottom: 1px solid rgb(11, 160, 219); }
+
+.menu-tabber .inner-tabber .nav-tabs .nav-link, .menu-tabber .inner-tabber .nav-tabs .nav-link:hover { border-top: 1px solid rgba(0, 0, 0, 0.15); border-radius: 0px; }
+
+.menu-tabber .inner-tabber .nav-tabs .nav-item:first-child .nav-link { border-top: 0px; }
+
+.application-page .middle-banner .container::after { content: ""; background: url("./images/background/innerpage/young-woman-in-headset-using-laptop-and-taking-notes.webp") center bottom / contain no-repeat; position: absolute; top: 32px; right: 0px; height: 100%; width: 30%; bottom: 0px; }
+
+.Content-Marketing .middle-banner .octf-btn, .application-page .middle-banner .octf-btn, .lms-middle-banner .contact-btn a, .lms-middle-banner .contact-btn button { background: linear-gradient(96deg, rgb(41, 171, 226) 0px, rgb(22, 94, 124) 100%); border: 0px; }
+
+.web-design-page .banner { margin-top: 20px; padding-bottom: 60px; }
+
+.web-design-page .banner::after { content: ""; background-image: url("./images/background/innerpage/web-design-services-banner.webp"); background-repeat: no-repeat; height: 100%; width: 54%; position: absolute; top: 0px; right: 0px; }
+
+.web-design-page .banner .content p { padding-right: 100px; }
+
+.ui-ux-design-page .banner::after { background-image: url("./images/background/innerpage/ui-ux-design-bg.webp"); }
+
+.Logo-Design-Agency .sticky-top, .brand-design-page .banner .content h3 { padding-right: 40px; }
+
+.Logo-design-page .banner ul, .Logo-design-page ul li { list-style: disc; margin-left: 0.6rem; }
+
+.Logo-design-page .banner::after { background-image: url("./images/background/innerpage/Logo-design-banner.webp"); }
+
+.products-page .cms-banner { min-height: calc(-30px + 100vh); }
+
+.products-page .cms-middle-banner .contact-btn a, .products-page .cms-middle-banner .contact-btn button { border-radius: 10px; background: linear-gradient(0deg, var(--Bg-Light-1, #fff) 0, var(--Bg-Light-1, #fff) 100%), linear-gradient(96deg, #29abe2 0, #165e7c 100%); border: 0px; color: rgb(41, 171, 226); font-weight: 700; }
+
+.industries-ecommerce-wrapper .education-middle-banner .container::after, .industries-ecommerce-wrapper .finance-middle-banner .container::after, .industries-ecommerce-wrapper .healthcare-middle-banner .container::after, .industries-ecommerce-wrapper .middle-banner .container::after, .industries-ecommerce-wrapper .on-demand-middle-banner .container::after, .industries-ecommerce-wrapper .real-estate-middle-banner .container::after, .industries-ecommerce-wrapper .travel-middle-banner .container::after { content: ""; background-image: url("../assets/images/background/innerpage/ecommerce-shopping-cart-img.webp"); background-position: center top; background-size: contain; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: initial; position: absolute; top: 40px; right: 0px; height: 100%; width: 35%; background-repeat: no-repeat !important; }
+
+.industries-ecommerce-wrapper .finance-middle-banner .container::after { background: url("../assets/images/background/innerpage/finance-middle-img.webp"); top: 180px; }
+
+.industries-ecommerce-wrapper .on-demand-middle-banner .container::after { background: url("../assets/images/background/innerpage/ondemand-middle-img.webp"); top: 100px; }
+
+.industries-ecommerce-wrapper .education-middle-banner .container::after { background: url("../assets/images/background/innerpage/education-middle-img.webp"); top: 180px; }
+
+.industries-ecommerce-wrapper .healthcare-middle-banner .container::after { background: url("../assets/images/background/innerpage/healthcare-middle-img.webp") 0px 0px / 70% auto; bottom: 0px; top: 50%; right: 10px; }
+
+.industries-ecommerce-wrapper .transport-middle-banner .container::after { background: url("../assets/images/background/innerpage/transport-middle-img.webp"); top: 180px; }
+
+.industries-ecommerce-wrapper .real-estate-middle-banner .container::after { background: url("../assets/images/background/innerpage/real-estate-middle-img.webp"); }
+
+.industries-ecommerce-wrapper .travel-middle-banner .container::after { background: url("../assets/images/background/innerpage/travel-middle-img.webp"); top: 250px; right: 70px; }
+
+.grocery-delivery-application-wrapper .food-main-heading-banner h6.big-font, .grocery-main-heading-banner h6.big-font, .industry-main-heading-banner h6.big-font, .sitemap-wrapper h4 { font-size: 70px; }
+
+.food-main-heading-banner h6.big-font, .grocery-main-heading-banner h6.big-font, .industry-main-heading-banner h6.big-font { color: rgba(255, 255, 255, 0.2); font-style: normal; font-weight: 800; line-height: normal; text-transform: uppercase; font-size: 70px; letter-spacing: 0.7px !important; }
+
+.core-services-section .main-heading span, .different-industries-wrapper.main-heading span, .food-delivery-application-wrapper .banner_wrapper .main-heading, .food-delivery-application-wrapper .main-heading span, .food-industries-wrapper.main-heading span, .industry-banner-wrapper .banner_wrapper .main-heading, .industry-banner-wrapper .main-heading span, .industry-core-services-section .main-heading span { color: rgb(0, 0, 0); font-size: 18px; font-style: normal; line-height: normal; text-transform: capitalize; }
+
+.different-industries-wrapper.main-heading span, .food-delivery-application-wrapper .main-heading span, .food-industries-wrapper.main-heading span, .food-main-heading-banner .main-heading span, .industry-main-heading-banner .main-heading span, .industry-main-heading-banner .main-heading span .industry-banner-wrapper .main-heading span { color: rgb(12, 119, 189); font-weight: 800; text-transform: capitalize; position: relative; z-index: 1; }
+
+.food-delivery-application-wrapper .banner-section .container, .industry-banner-wrapper .banner-section .container { z-index: 1; display: flex; align-items: center; }
+
+.food-mt-3rem, .industry-banner-wrapper .mt-3rem { margin-top: -3.5rem; }
+
+.food-delivery-application-wrapper .banner_wrapper, .industry-banner-wrapper .banner_wrapper { height: 500px; display: flex; align-items: center; }
+
+.custom-font, .different-industries-wrapper h2.main-heading, .fs-45, .industry-banner-wrapper.fs-45 { font-size: 44px !important; }
+
+.different-industries-wrapper.main-heading span, .industry-banner-wrapper .banner_wrapper .main-heading, .industry-banner-wrapper .main-heading span, .industry-core-services-section .main-heading span, .industry-main-heading-banner .main-heading span { font-size: 44px; font-weight: 800; }
+
+.industry-main-heading-banner { display: flex; align-items: center; height: 650px; background-position: center center !important; background-size: 100% auto !important; }
+
+.industry-main-heading-banner h6.big-font { color: rgba(255, 255, 255, 0.2); font-style: normal; font-weight: 800; line-height: normal; text-transform: uppercase; letter-spacing: 0.7px !important; }
+
+#webdevelopmentAccordion .accordion-item:last-child, .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(4), .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(5), .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(6), .integration-row:last-child, .service-item:last-of-type, .tech-row:last-child { border-bottom: 0px; }
+
+.cta-banner-bg { height: 320px; border-radius: 10px; padding-left: 2rem; display: flex; align-items: center; background-size: cover !important; background-position: center center !important; }
+
+.heading-2, .industry-banner-wrapper .banner-wrapper h3, .inner-wrapper .banner-section h2, .inner-wrapper .banner-section h3, .ot-heading h1 { color: rgb(0, 0, 0); font-family: "DM Serif Text"; font-size: 42px; font-weight: 400; }
+
+.hero-content h3, .industries-banner .heading-2 { color: rgb(255, 255, 255); font-size: 62px; font-weight: 400; }
+
+.banner_wrapper { height: 440px; display: flex; justify-content: center; align-items: center; flex-direction: row; }
+
+.ai-and-ml-development .banner-content-wrapper ul li { list-style: disc; color: rgb(255, 255, 255); }
+
+.ai-and-ml-development .banner-section .image { position: absolute; right: -9.22%; width: 50%; bottom: 0px; }
+
+.ai-and-ml-development .banner-section .banner-content-wrapper { padding: 60px 0px !important; }
+
+.ai-and-ml-development .banner-section .contact-btn a, .ai-and-ml-development .banner-section .contact-btn button { border-radius: 10px; background: rgb(41, 171, 226); }
+
+.ai-chabot-development.ai-and-ml-development .banner-section .image { width: 20%; right: 100px; bottom: 90px; }
+
+.industry-gradient-bg, .oil-gas-software-development-company { background: radial-gradient(circle at left center, rgb(46, 26, 4) 0px, rgb(0, 0, 0) 40%, rgb(1, 22, 39) 100%); }
+
+.why-choose-us p { color: rgba(0, 0, 0, 0.7); }
+
+.feature-item h6, .feature-item span { color: rgb(0, 0, 0); font-size: 18px; }
+
+.feature-item span::after { content: ""; border-bottom: 1px solid rgb(0, 0, 0); transform: rotate(0deg); position: absolute; left: 22px; right: 0px; top: 10px; width: 100%; }
+
+.features-text-grid .feature-item { border-right: 1px solid var(--theme-color-1); border-bottom: 1px solid var(--theme-color-1); padding: 30px 25px; text-align: left; }
+
+.features-text-grid .feature-item .icon { font-size: 28px; color: var(--theme-color-1); margin-bottom: 12px; }
+
+.iot-app-development.ai-and-ml-development .banner-section .image { bottom: -70px; }
+
+.hero-stats { margin-top: 58px; padding-top: 30px; border-top: 1px solid rgba(255, 255, 255, 0.12); display: grid; grid-template-columns: repeat(4, 1fr); gap: 60px; }
+
+.hero-stats div { border-right: 1px solid rgba(255, 255, 255, 0.12); padding-left: 24px; }
+
+.hero-stats div:last-child { border-right: 0px; padding-left: 0px; }
+
+.hero-stats strong { display: block; font-size: 32px; font-weight: 900; color: rgb(255, 255, 255); margin-bottom: 8px; }
+
+.hero-stats span { color: rgb(156, 163, 175); font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
+
+.hero-form-card textarea.form-control { min-height: 82px; padding-top: 12px; resize: none; border: 1px solid; background: rgb(239, 239, 239); }
+
+.hero-form-card .form-group select, .hero-form-card input[type="email"], .hero-form-card input[type="tel"], .hero-form-card input[type="text"] { height: 52px; border: 1px solid; background: rgb(239, 239, 239); border-radius: 12px; }
+
+.hero-form-card input.form-control:focus, .hero-form-card input.form-select:focus, .hero-form-card textarea.form-control:focus, .industries-wrapper .hero-form-card .input .form-control:focus, .industries-wrapper .hero-form-card .input .form-select:focus { border-color: rgb(247, 155, 31); box-shadow: rgba(255, 152, 24, 0.12) 0px 0px 0px 3px; }
+
+.hero-form-card { text-align: left; max-width: 540px; padding: 36px; border: 1px solid rgba(255, 255, 255, 0.14); border-radius: 26px; background: linear-gradient(rgba(255, 255, 255, 0.96), rgba(255, 255, 255, 0.96)); box-shadow: rgba(0, 0, 0, 0.65) 0px 40px 110px; color: rgb(255, 255, 255); backdrop-filter: blur(18px); }
+
+.industries-wrapper .hero-form-card .form-group select, .industries-wrapper .hero-form-card .input .form-control, .industries-wrapper .hero-form-card .input .form-select { height: 52px; border: 1px solid; color: rgb(0, 0, 0); border-radius: 12px; padding: 10px 13px 10px 40px; font-size: 14px; }
+
+.industries-wrapper .hero-form-card .input textarea.form-control { min-height: 96px; }
+
+.hero-form-card h2 { margin: 0px 0px 8px; color: rgb(0, 0, 0); font-size: 30px; line-height: 1.2; }
+
+.hero-form-card > p { color: rgb(113, 123, 131); font-size: 13px; }
+
+.hero-form-card .input > i { color: rgb(247, 155, 31); position: absolute; top: 50%; left: 14px; z-index: 2; font-size: 13px; transform: translateY(-50%); pointer-events: none; }
+
+.hero-form-card .input.textarea > i { top: 16px; transform: none; }
+
+.hero-form-card .input textarea.form-control { min-height: 82px; padding-top: 12px; resize: none; }
+
+.hero-form-card .form-note { display: flex; align-items: center; justify-content: center; gap: 7px; margin: 13px 0px 0px; color: rgb(124, 133, 140); font-size: 10px; }
+
+.hero-form-card .form-note i { color: rgb(28, 160, 102); }
+
+.banner-note { display: flex; align-items: center; gap: 8px; margin: 18px 0px 0px; color: rgba(255, 255, 255, 0.55); font-size: 13px; }
+
+.service-item { display: grid; grid-template-columns: 72px minmax(0px, 1fr); gap: 28px; padding: 24px 18px; border-bottom: 1px solid rgba(255, 255, 255, 0.1); transition: 0.3s; align-items: flex-start; position: relative; }
+
+.hero-stats-strip { display: grid; grid-template-columns: repeat(4, 1fr); margin-top: 75px; border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 16px; background: rgba(255, 255, 255, 0.035); backdrop-filter: blur(14px); }
+
+.hero-stat { position: relative; padding: 20px 25px; }
+
+.hero-stat strong { display: block; color: rgb(255, 255, 255); font-size: 40px; line-height: 1; }
+
+.hero-stat span { display: block; margin-top: 8px; color: rgba(220, 235, 247, 0.57); font-size: 14px; }
+
+.hero-stat:not(:last-child)::after { content: ""; position: absolute; top: 20%; right: 0px; width: 1px; height: 60%; background: rgba(255, 255, 255, 0.1); }
+
+.service-item:hover { padding-left: 30px; background: rgba(255, 255, 255, 0.02); }
+
+.ai-band-item::before, .service-item::before { background: rgb(247, 155, 31); transition: 0.35s; content: ""; top: 0px; opacity: 0; position: absolute; }
+
+.service-item:hover::before { opacity: 1; left: 0px; }
+
+.service-item::before { left: -30px; width: 4px; height: 100%; }
+
+.service-number { width: 54px; height: 54px; min-width: 54px; background: 0px 0px; border: 1px solid rgba(247, 155, 31, 0.45); color: rgb(247, 155, 31); display: flex; align-items: center; justify-content: center; font-size: 18px; font-weight: 700; border-radius: 50%; }
+
+.service-content h3 { margin-bottom: 10px; color: rgb(255, 255, 255); transition: 0.3s; font-size: 1.5rem; }
+
+.service-content p { max-width: 950px; color: rgb(167, 173, 179); line-height: 1.8; }
+
+.card-icon, .platform-feature-item i { font-size: 1.8rem; margin-bottom: 1rem; }
+
+.flow-card h6, .platform-feature-item span { font-weight: 500; color: rgb(255, 255, 255); font-size: 14px; margin-bottom: 0.75rem; }
+
+.platform-feature-item span { font-weight: 300; color: rgba(255, 255, 255, 0.9); font-size: 14px; }
+
+.features-banner { margin-top: 34px; border: 1px solid; border-radius: 18px; background: rgb(13, 16, 19); padding: 38px 18px; }
+
+.platform-feature-item { display: flex; flex-direction: column; align-items: center; justify-content: flex-start; padding: 0px 0.5rem; position: relative; }
+
+.cutom-step-item { position: relative; display: grid; grid-template-columns: 46px 1fr; gap: 18px; padding: 18px 0px; }
+
+.custom-steps::before { content: ""; position: absolute; left: 22px; top: 24px; bottom: 24px; width: 1px; background: rgba(0, 0, 0, 0.12); }
+
+.cutom-step-num { z-index: 1; width: 46px; height: 46px; border-radius: 50%; display: grid; background: rgb(17, 17, 17); color: rgb(247, 155, 31); font-size: 12px; font-weight: 800; }
+
+.cutom-step-item h3 { font-size: 19px; margin: 1px 0px 7px; font-weight: 700; }
+
+.cutom-step-item p { margin: 0px; color: rgb(102, 102, 102); line-height: 1.7; }
+
+.common-grid { background: rgb(247, 247, 245); }
+
+.common-grid-grid { display: grid; grid-template-columns: repeat(4, minmax(0px, 1fr)); margin-top: 45px; border-top: 1px solid rgb(220, 222, 220); border-left: 1px solid rgb(220, 222, 220); }
+
+.common-grid-step { min-height: 260px; padding: 28px 24px; border-right: 1px solid rgb(220, 222, 220); border-bottom: 1px solid rgb(220, 222, 220); }
+
+.common-grid-step .num { display: block; margin-bottom: 30px; color: transparent; -webkit-text-stroke: 1px rgba(247, 155, 31, 0.45); font-size: 46px; font-weight: 800; }
+
+.common-grid-step h4 { font-size: 18px; margin: 0px 0px 10px; }
+
+.case-study-hero .hero-banner { margin-top: 35px; min-height: 400px; border-radius: 34px; position: relative; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.28) 0px 35px 90px; }
+
+.case-study-hero .hero-banner img { border-radius: 34px; height: 400px; width: 100%; object-fit: cover; }

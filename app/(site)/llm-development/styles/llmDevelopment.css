@@ -1,0 +1,62 @@
+/* LLM Development Page Styles */
+
+.banner-section {
+  min-height: 520px;
+}
+
+.AI-powered-solutions-for-business-growth {
+  background: #021626;
+  position: relative;
+  overflow: hidden;
+}
+
+.AI-powered-solutions-for-business-growth .services-content-col {
+  padding-left: 2rem;
+}
+
+@media (min-width: 992px) {
+  .AI-powered-solutions-for-business-growth .services-content-col::after {
+    background: linear-gradient(270deg, rgb(0, 65, 123) 0%, rgb(12, 119, 189) 100%);
+    content: "";
+    position: absolute;
+    right: -100px;
+    width: 120%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+    border-radius: 20px 0 0 20px;
+  }
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button::after {
+  filter: invert(1);
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button:not(.collapsed)::after {
+  filter: invert(65%) sepia(85%) saturate(750%) hue-rotate(345deg);
+}
+
+.step-by-step-approach-to-ai-excellence .box:hover {
+  transform: translateY(-5px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 10px 30px rgba(247, 155, 31, 0.2);
+}
+
+.process-wrapper .p-4:hover {
+  transform: translateY(-5px);
+  border-color: #009fe3 !important;
+  box-shadow: 0 12px 30px rgba(0, 159, 227, 0.15) !important;
+}
+
+.our-Trusted-AI-and-ML-development-partner .column:hover {
+  transform: translateY(-5px);
+  border-color: #f79b1f !important;
+  box-shadow: 0 12px 30px rgba(247, 155, 31, 0.2);
+}
+
+.AI-powered-solutions-for-every-industry .box:hover {
+  transform: translateY(-5px);
+  border-color: #009fe3 !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+

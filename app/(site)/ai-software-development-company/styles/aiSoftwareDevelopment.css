@@ -1,0 +1,126 @@
+/* AI Software Development Page Styles */
+
+.banner-section {
+  min-height: 520px;
+}
+
+.AI-powered-solutions-for-business-growth {
+  position: relative;
+  overflow: hidden;
+  padding: 40px 0;
+}
+
+.AI-powered-solutions-for-business-growth .services-content-col {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  z-index: 1;
+}
+
+@media (min-width: 992px) {
+  .AI-powered-solutions-for-business-growth .services-content-col::after {
+    background: linear-gradient(270deg, rgb(0, 65, 123) 0%, rgb(12, 119, 189) 100%);
+    content: "";
+    position: absolute;
+    right: -100px;
+    width: 150%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+    border-radius: 30px 0 0 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .AI-powered-solutions-for-business-growth .services-content-col {
+    background: linear-gradient(270deg, rgb(0, 65, 123) 0%, rgb(12, 119, 189) 100%);
+    border-radius: 20px;
+    padding: 2rem 1.5rem;
+  }
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button::after {
+  filter: invert(1);
+}
+
+.AI-powered-solutions-for-business-growth .accordion-button:not(.collapsed)::after {
+  filter: invert(65%) sepia(85%) saturate(750%) hue-rotate(345deg);
+}
+
+/* Features Section (Section 4) */
+.process-wrapper .feature-item {
+  transition: transform 0.3s ease;
+}
+
+.process-wrapper .feature-item:hover {
+  transform: translateY(-4px);
+}
+
+/* Why Choose Section (Section 5) */
+.our-Trusted-AI-and-ML-development-partner {
+  background-color: #f1fbff !important;
+  padding: 90px 0;
+}
+
+.our-Trusted-AI-and-ML-development-partner .number h2 {
+  color: #0b86c8;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.our-Trusted-AI-and-ML-development-partner .why-number-col::before {
+  content: "";
+  width: 55%;
+  height: 1.5px;
+  position: absolute;
+  right: 0;
+  top: 10px;
+  background: #0b86c8;
+}
+
+.our-Trusted-AI-and-ML-development-partner .content-box h5 {
+  color: #0b86c8;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.our-Trusted-AI-and-ML-development-partner .content-box p {
+  color: rgba(33, 37, 41, 0.75);
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Industries Section (Section 6) */
+.AI-powered-solutions-for-every-industry .box:hover {
+  transform: translateY(-5px);
+  border-color: #009fe3 !important;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* Reach Out Section (Section 8) */
+.talk-card {
+  background: radial-gradient(circle at 100% 100%, rgba(255, 138, 0, 0.25), rgba(0, 0, 0, 0) 28%),
+    linear-gradient(135deg, rgb(0, 0, 0), rgb(0, 0, 0));
+  border-radius: 22px;
+  padding: 32px;
+  color: #ffffff;
+}
+
+.project-form {
+  background: #ffffff;
+  box-shadow: 0 24px 70px rgba(7, 27, 69, 0.12);
+  border-radius: 22px;
+  padding: 40px;
+}
+
+@media (max-width: 768px) {
+  .project-form {
+    padding: 24px;
+  }
+  .talk-card {
+    padding: 24px;
+  }
+}
