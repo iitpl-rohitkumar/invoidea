@@ -1,0 +1,253 @@
+import React from 'react';
+
+export const AIFeaturesSection: React.FC = () => {
+  return (
+    <section className=" taxi-wrapper industry-app-feature-wrapper">
+    <div className="container">
+        <div className="row">
+            <div className="col-lg-4 col-md-5 d-lg-block d-none">
+                <div className="right-child" style={{"position":"sticky","top":"130px","paddingLeft":"80px"}}>
+                    <div>
+                        <img src="/assets/traveler-app-mockup-3.webp" className="img-fluid" alt="travel-app-development-company-in-india" />
+                    </div>
+                </div>
+            </div>
+            <div className="col-lg-8 col-md-7">
+                <h2 className="subheading">AI-POWERED TRAVEL APP DEVELOPMENT</h2>
+                <h3 className="heading-2">AI-Powered Features for Travel Apps</h3>
+                <p className="text-muted">
+                    As a travel app development company in India focused on long-term product success, we build AI
+                    only where it genuinely improves the product. We can include any of the following travel
+                    features in your custom-built app:
+                </p>
+                <div className="row industry-hover-box-wrapper mt-01">
+                    <div className="col-lg-6 col-md-6 col-12 ">
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="34" viewBox="0 0 32 34" fill="none">
+                                                <path d="M1 6.5873V11.1587H26.9048V6.5873C26.9048 4.89418 26.0582 4.04762 24.3651 4.04762H20.3016H7.60318H3.53968C1.84656 4.04762 1 4.89418 1 6.5873Z" fill="#17B4C8" fill-opacity="0.16"></path>
+                                                <path d="M16.2381 30.4603H3.53968C1.84656 30.4603 1 29.6138 1 27.9206V11.1587M1 11.1587V6.5873C1 4.89418 1.84656 4.04762 3.53968 4.04762H7.60318M1 11.1587H26.9048M7.60318 4.04762H20.3016M7.60318 4.04762V1M7.60318 4.04762V7.09524M20.3016 4.04762H24.3651C26.0582 4.04762 26.9048 4.89418 26.9048 6.5873V11.1587M20.3016 4.04762V1M20.3016 4.04762V7.09524M26.9048 11.1587V13.6984" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M7.60327 17.2539H10.143M14.7144 17.2539H17.2541M7.60327 23.3491H10.143" strokeWidth="2.33" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M30.4603 22.3335C30.4603 27.4129 24.365 33.0002 24.365 33.0002C24.365 33.0002 18.2698 27.4129 18.2698 22.3335C18.2698 20.717 18.9119 19.1666 20.055 18.0235C21.1981 16.8805 22.7485 16.2383 24.365 16.2383C25.9816 16.2383 27.5319 16.8805 28.675 18.0235C29.8181 19.1666 30.4603 20.717 30.4603 22.3335Z" fill="#D1EBEE" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M26.3967 22.3325C26.3967 22.8714 26.1827 23.3882 25.8017 23.7692C25.4206 24.1502 24.9039 24.3643 24.365 24.3643C23.8261 24.3643 23.3094 24.1502 22.9283 23.7692C22.5473 23.3882 22.3333 22.8714 22.3333 22.3325C22.3333 21.7937 22.5473 21.2769 22.9283 20.8959C23.3094 20.5148 23.8261 20.3008 24.365 20.3008C24.9039 20.3008 25.4206 20.5148 25.8017 20.8959C26.1827 21.2769 26.3967 21.7937 26.3967 22.3325Z" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">AI Trip Planner</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">We build planners that create a daily schedule based
+                                        on the traveler's preferences, budget, and trip dates.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="35" viewBox="0 0 32 35" fill="none">
+                                                <path d="M6 5H26C29.3333 5 31 6.72619 31 10.1786V23.6429C31 27.0952 29.3333 28.8214 26 28.8214H12.5L5.5 34V28.8214C2.5 28.8214 1 27.0952 1 23.6429V10.1786C1 6.72619 2.66667 5 6 5Z" fill="#D1EBEE" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M16.2379 4.55556V1M16.2379 1H14.2062M16.2379 1H18.2697M9.63477 13.1905V15.7302M22.8411 13.1905V15.7302M11.1586 20.3016C14.5448 23.3492 17.9311 23.3492 21.3173 20.3016" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">AI Travel Assistant Chatbot</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">Our chatbots answer FAQs and help with booking around
+                                        the clock, taking pressure off human support teams.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+                                                <path d="M15.7302 28.4284C13.0507 28.61 10.3769 28.001 8.04049 26.6767C5.70407 25.3525 3.80788 23.3715 2.58715 20.9794C1.59402 19.0333 1.08351 16.8848 1.08848 14.7141M1.08848 14.7141C1.08962 14.2167 1.11783 13.7181 1.17352 13.2204C1.47217 10.5515 2.54787 8.02899 4.26714 5.96586C5.98642 3.90274 8.27361 2.3898 10.8449 1.61476C13.4163 0.839723 16.1585 0.836695 18.7316 1.60605C21.3046 2.37541 23.5951 3.88329 25.319 5.94261C27.0428 8.00194 28.124 10.5221 28.4286 13.1903M1.08848 14.7141H1M1.08848 14.7141H18.2698M3.53968 7.0951H25.8889M3.53968 22.3332H15.2222" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M14.7143 28.4286C7.09524 21.3175 7.09524 8.11111 14.7143 1C18.7778 5.06349 20.6402 9.12698 20.3016 13.1905" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M32.9998 21.318C32.9998 26.3974 26.3966 33.0006 26.3966 33.0006C26.3966 33.0006 19.7935 26.3974 19.7935 21.318C19.7935 19.5667 20.4891 17.8872 21.7275 16.6489C22.9658 15.4105 24.6454 14.7148 26.3966 14.7148C28.1479 14.7148 29.8274 15.4105 31.0658 16.6489C32.3041 17.8872 32.9998 19.5667 32.9998 21.318ZM28.4284 21.318C28.4284 21.8569 28.2143 22.3737 27.8333 22.7547C27.4523 23.1357 26.9355 23.3498 26.3966 23.3498C25.8578 23.3498 25.341 23.1357 24.96 22.7547C24.5789 22.3737 24.3649 21.8569 24.3649 21.318C24.3649 20.7792 24.5789 20.2624 24.96 19.8814C25.341 19.5003 25.8578 19.2863 26.3966 19.2863C26.9355 19.2863 27.4523 19.5003 27.8333 19.8814C28.2143 20.2624 28.4284 20.7792 28.4284 21.318Z" fill="#D1EBEE" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">Smart Destination Recommendations</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">We base suggestions on a traveler's actual browsing
+                                        and booking history, not a generic popular-destinations list.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="31" height="42" viewBox="0 0 31 42" fill="none">
+                                                <path d="M15.8099 12.0391H3.1157C1.70523 12.0391 1 12.7443 1 14.1548V26.849L14.2231 40.0721C15.281 41.13 16.3388 41.13 17.3967 40.0721L29.0331 28.4358C30.0909 27.3779 30.0909 26.3201 29.0331 25.2622L22.157 18.3862" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M11 18.9167C11 19.6116 10.724 20.278 10.2327 20.7693C9.74134 21.2606 9.07496 21.5366 8.38013 21.5366C7.68529 21.5366 7.01892 21.2606 6.52759 20.7693C6.03627 20.278 5.76025 19.6116 5.76025 18.9167C5.76025 18.2219 6.03627 17.5555 6.52759 17.0642C7.01892 16.5729 7.68529 16.2969 8.38013 16.2969C9.07496 16.2969 9.74134 16.5729 10.2327 17.0642C10.724 17.5555 11 18.2219 11 18.9167Z" fill="#D1EBEE" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M21.3471 0.867188L23.1839 6.37752L28.6942 8.2143L23.1839 10.0511L21.3471 15.5614L19.5103 10.0511L14 8.2143L19.5103 6.37752L21.3471 0.867188Z" fill="#D1EBEE" strokeWidth="1.73633" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">Tailor-Made Travel Offers</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">Our AI-based recommendation engines factor in past
+                                        behavior, budget, and declared interests rather than pushing generic
+                                        bundles.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="34" viewBox="0 0 32 34" fill="none">
+                                                <path d="M17.6676 9.88281H8.7627V17.7401L17.6676 26.645C18.3661 27.3435 19.0645 27.3435 19.7629 26.645L26.0487 20.3592C26.7472 19.6608 26.7472 18.9624 26.0487 18.2639L17.6676 9.88281Z" fill="#D1EBEE"></path>
+                                                <path d="M14.0005 13.9993L14.0009 14.0734M8.7627 9.88281H17.6676L26.0487 18.2639C26.7472 18.9624 26.7472 19.6608 26.0487 20.3592L19.7629 26.645C19.0645 27.3435 18.3661 27.3435 17.6676 26.645L8.7627 17.7401V9.88281Z" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M1.00049 12.5475C1.76517 9.62903 3.43107 6.99007 5.78729 4.96476C8.14351 2.93945 11.0841 1.61885 14.2368 1.17016C17.3894 0.721472 20.6124 1.16486 23.4977 2.44421C26.3829 3.72355 28.8007 5.78131 30.4449 8.35698M24.3338 8.35698H30.4449V2.59496M31.0005 21.4525C30.2358 24.371 28.5699 27.0099 26.2137 29.0352C23.8575 31.0606 20.9169 32.3811 17.7642 32.8298C14.6116 33.2785 11.3886 32.8351 8.50332 31.5558C5.61806 30.2765 3.20027 28.2187 1.55604 25.643M7.66715 25.643H1.55604V31.405" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">Real-Time Dynamic Pricing</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">We build pricing systems that update automatically
+                                        with demand, seasonality, and competitor rates, no manual adjustments
+                                        needed.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+
+                    </div>
+                    <div className="col-lg-6 col-md-6 col-12">
+
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="37" height="34" viewBox="0 0 37 34" fill="none">
+                                                <path d="M9.82759 5.41379C9.82759 6.5844 9.36257 7.70707 8.53482 8.53482C7.70707 9.36256 6.5844 9.82759 5.41379 9.82759C4.24318 9.82759 3.12051 9.36256 2.29277 8.53482C1.46502 7.70707 1 6.5844 1 5.41379C1 4.24318 1.46502 3.12052 2.29277 2.29277C3.12051 1.46502 4.24318 1 5.41379 1C6.5844 1 7.70707 1.46502 8.53482 2.29277C9.36257 3.12052 9.82759 4.24318 9.82759 5.41379ZM35.2069 28.5862C35.2069 29.7568 34.7419 30.8795 33.9141 31.7072C33.0864 32.535 31.9637 33 30.7931 33C29.6225 33 28.4998 32.535 27.6721 31.7072C26.8443 30.8795 26.3793 29.7568 26.3793 28.5862C26.3793 27.4156 26.8443 26.2929 27.6721 25.4652C28.4998 24.6374 29.6225 24.1724 30.7931 24.1724C31.9637 24.1724 33.0864 24.6374 33.9141 25.4652C34.7419 26.2929 35.2069 27.4156 35.2069 28.5862Z" fill="#D1EBEE" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M9.82772 5.41406H26.3794C35.207 5.41406 35.207 17.0003 26.3794 17.0003H9.82772C1.00013 17.0003 1.00013 28.5865 9.82772 28.5865H26.3794" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">AI Itinerary Generator</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">Our AI itinerary generators turn a trip length and
+                                        destination into a day-by-day plan travelers can follow and adjust on the
+                                        go.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="34" viewBox="0 0 36 34" fill="none">
+                                                <path d="M1 1V33H34.1228M6.05263 24.0175L13.9123 15.5965L20.6491 19.5263L33 4.92982M33 12.7895V4.92982H25.1404" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M8.29834 29.0684V26.8228M17.2808 29.0684V24.5772M26.2633 29.0684V20.0859" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">Booking Trends Forecast</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">We help sellers prepare inventory and pricing ahead
+                                        of demand, not after it hits.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="34" height="41" viewBox="0 0 34 41" fill="none">
+                                                <path d="M13.2906 9.28648C12.3068 10.2703 11.7541 11.6046 11.7541 12.9959V24.0123C11.7541 25.4036 12.3068 26.7379 13.2906 27.7217C14.2744 28.7055 15.6087 29.2582 17 29.2582C18.3913 29.2582 19.7256 28.7055 20.7094 27.7217C21.6932 26.7379 22.2459 25.4036 22.2459 24.0123V12.9959C22.2459 11.6046 21.6932 10.2703 20.7094 9.28648C19.7256 8.30269 18.3913 7.75 17 7.75C15.6087 7.75 14.2744 8.30269 13.2906 9.28648Z" fill="#D1EBEE"></path>
+                                                <path d="M7.55737 22.4385V24.0123C7.55737 26.5166 8.55222 28.9184 10.3231 30.6892C12.0939 32.4601 14.4957 33.4549 17 33.4549M17 33.4549C19.5043 33.4549 21.9061 32.4601 23.6769 30.6892C25.4478 28.9184 26.4426 26.5166 26.4426 24.0123V22.4385M17 33.4549V39.75M17 39.75H11.7541M17 39.75H22.2459M11.7541 12.9959C11.7541 11.6046 12.3068 10.2703 13.2906 9.28648C14.2744 8.30269 15.6087 7.75 17 7.75C18.3913 7.75 19.7256 8.30269 20.7094 9.28648C21.6932 10.2703 22.2459 11.6046 22.2459 12.9959V24.0123C22.2459 25.4036 21.6932 26.7379 20.7094 27.7217C19.7256 28.7055 18.3913 29.2582 17 29.2582C15.6087 29.2582 14.2744 28.7055 13.2906 27.7217C12.3068 26.7379 11.7541 25.4036 11.7541 24.0123V12.9959Z" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M2.83607 14.0469C0.387978 17.1944 0.387978 20.342 2.83607 23.4895M31.1639 14.0469C33.612 17.1944 33.612 20.342 31.1639 23.4895" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M23.3471 0.75L24.8089 5.13533L29.1942 6.59711L24.8089 8.05888L23.3471 12.4442L21.8853 8.05888L17.5 6.59711L21.8853 5.13533L23.3471 0.75Z" fill="#D1EBEE" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">AI Voice Search</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">Our voice search optimization helps travelers find
+                                        destinations, flights, hotels, and travel information hands-free.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="37" height="38" viewBox="0 0 37 38" fill="none">
+                                                <path d="M19.3607 36.9981H13.0656V28.6047H19.3607V36.9981Z" fill="#D1EBEE"></path>
+                                                <path d="M17.2623 7.62109H4.14754V36.9981M4.14754 36.9981H13.0656M4.14754 36.9981H1M13.0656 36.9981H19.3607M13.0656 36.9981V28.6047H19.3607V36.9981M19.3607 36.9981H28.8033M28.8033 36.9981V20.7358M28.8033 36.9981H32.4754" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M8.86865 13.918H11.4916M8.86865 20.7376H11.4916M20.4096 20.7376H23.0326" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M27.7051 1L29.8035 5.72131L35.0494 6.2459L31.3772 9.91803L32.4264 15.1639L27.7051 12.541L22.9838 15.1639L24.033 9.91803L20.3608 6.2459L25.6067 5.72131L27.7051 1Z" fill="#D1EBEE" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">Smart Hotel Recommendations</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">Our AI-driven smart hotel recommendations analyze
+                                        guest preferences, booking history and spending patterns to recommend hotels
+                                        that match individual needs, preferences and budgets.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                        <div className=" industry-solution-box mb-20 bg-white">
+                            <div className="icon-box-s2 s1">
+                                <div className="icon-main float-none text-start">
+                                    <div>
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="34" viewBox="0 0 29 34" fill="none">
+                                                <path d="M14.2064 1C18.2698 4.04762 22.8413 5.57143 27.4127 6.5873V15.7302C27.4127 23.3492 22.3333 28.9365 14.2064 33C6.07937 28.9365 1 23.3492 1 15.7302V6.5873C5.57143 5.57143 10.1429 4.04762 14.2064 1Z" fill="#D1EBEE" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                                <path d="M7.60303 16.2395L12.1745 20.811L21.3173 11.1602" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            </svg>
+                                            <h5 className="text-start text-black">AI Fraud Detection</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="mt-2">
+                                    <p className="mb-0 text-muted">We integrate AI fraud detection feature that flags
+                                        abnormal transactions and booking patterns early, preventing financial and
+                                        security issues before they escalate.</p>
+                                </div>
+                            </div>
+                            <span className="bg-hover"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+  );
+};

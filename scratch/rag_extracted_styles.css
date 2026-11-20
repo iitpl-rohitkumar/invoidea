@@ -1,0 +1,804 @@
+.Logo-design-page .Website-Design-bottom .col-md-12.col-lg-7,
+.Website-Design .main-icon-box,
+.What-We-Offer-img-section,
+.ai-and-ml-development .our-Trusted-AI-and-ML-development-partner .col-md-6 .row .col-3,
+.application-solution-benifits .content-box h5,
+.astrology-application-development .testimonials-slider-wrap,
+.blog-wrapper,
+.border-left .box-style2,
+.border-right .box-style2,
+.cms-modules-we-deliver ul li,
+.contact-testi-card,
+.custom-benifits-section,
+.custom-steps,
+.different-industries-img,
+.feature-item span,
+.food-delivery-application section.Features .number,
+.food-industries-img,
+.header-topbar,
+.hero-form-card .input,
+.icon-box-s2 .content-box,
+.inner-entry-content,
+.inner-wrapper .services,
+.iot-app-development .features-chatbots,
+.main-menu,
+.octf-btn-cta,
+.our-comprehensive-services .col-lg-8,
+.page-header,
+.portfolio-slider-section .image-wrap,
+.process-steps,
+.products-page .aboutus .container,
+.products-page .software-development-image,
+.radio-box,
+.search-form,
+.service-wrapper-container,
+.service2-area,
+.steps-box,
+.technology-bg,
+.testimonial-section,
+.topbar_languages>div,
+.web-design-page .Website-Design-bottom .col-md-12.col-lg-7,
+blockquote,
+body,
+section.Benefits .nummber,
+sub,
+sup {
+  position: relative
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3 .box .content h6,
+.AI-powered-solutions-for-every-industry .col-lg-4 .box .content h6,
+.Web-Design-Services .tech-box .icon-main,
+.astrology-application-development .Astrology-box h5,
+.faq-section .accordion-body ul li,
+.key-features-wrapper .box .icon,
+.sidebar-modal .about-area,
+.widget-area .widget table caption {
+  margin-bottom: 10px
+}
+
+.Content-Marketing .success-section .box,
+.banner,
+.carousel-nav,
+.client-carousel-mobile a,
+.iot-app-development.ai-and-ml-development .AI-powered-solutions-for-every-industry .box,
+.marquee-inner p,
+.marquee-wrapper,
+.mobile-app-development .textbox h5,
+.mobile-app-development .textbox p,
+.online-reputation .success-section .box,
+.ot-counter,
+.owl-dots,
+.price-table tr td:not(:first-child),
+.screenshot_slider .owl-nav,
+.testimonial-slides .owl-dots {
+  text-align: center
+}
+
+.column-header,
+.cutom-step-num,
+.our-expertise .icon-box-s3 {
+  place-items: center
+}
+
+.common-project:hover::before,
+.projectPreview .carousel,
+.service-tab-wrapper .tab-content-box,
+.services-section.bg-ffffff .single-services-box:hover::before {
+  height: 100%
+}
+
+.feature-left .service-item,
+.feature-right .service-item {
+  z-index: 1;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    position: relative;
+    padding: 30px 20px;
+    border-radius: 7px;
+    margin-bottom: 30px;
+    background-color: #eaebec
+}
+
+.feature-left .service-item h4,
+.feature-right .service-item h4 {
+  font-size: 18px;
+    color: #000;
+    margin-bottom: 9px
+}
+
+.feature-left .service-item p,
+.feature-right .service-item p {
+  line-height: 1.4;
+    color: #202020b3
+}
+
+.feature-left .service-item span,
+.feature-right .service-item span {
+  font-size: 141px;
+    position: absolute;
+    text-align: center;
+    margin: auto;
+    left: 0;
+    top: -13px;
+    bottom: 0;
+    right: 0;
+    color: #b2afaf17
+}
+
+#webdevelopmentAccordion .accordion-body,
+.application-page .single-featured-box:hover h3,
+.application-solution-box:hover h5,
+.growth-box h4,
+.screenshot_slider .owl-item .item a,
+.service-card:nth-child(2n) .arrow-btn:hover i,
+.socialshare_vertical-li a,
+.team-card h6,
+.tech-tab.active i {
+  color: #fff
+}
+
+.application-page .single-featured-box:hover .icon,
+.common-grid-step:hover,
+.common-project:hover,
+.mobile-app-development-wrapper .banner-content-wrapper .octf-btn:hover,
+.premium-story,
+.products-page .middle-banner.cms-middle-banner .octf-btn,
+.service2-card,
+.services .solution-box,
+.stat-box,
+.stats-wrapper {
+  background: #fff
+}
+
+.feature-left>.row>div:first-child .service-item,
+    .feature-right>.row>div:last-child .service-item {
+  margin-left: 30px
+}
+
+.feature-left>.row>div:last-child .service-item,
+    .feature-right>.row>div:first-child .service-item {
+  margin-right: 30px
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3:nth-child(7),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(7) {
+  border-bottom: 1px solid #0003
+}
+
+#webdevelopmentAccordion .accordion-item:last-child,
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(4),
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(5),
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(6),
+.integration-row:last-child,
+.service-item:last-of-type,
+.tech-row:last-child {
+  border-bottom: 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3:nth-child(5),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(5) {
+  border-left: 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3:nth-child(5),
+    .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(6),
+    .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(7),
+    .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(8),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(5),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(6),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(7),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(8),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(9) {
+  border-bottom: 0
+}
+
+.ai-chabot-development .leading-aiand-ml-development-company-in-india img {
+  width: 60% !important;
+    margin: auto;
+    display: block
+}
+
+.ai-and-ml-development .our-Trusted-AI-and-ML-development-partner h5 {
+  color: #0b86c8;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px
+}
+
+.ai-and-ml-development .our-Trusted-AI-and-ML-development-partner .number h2 {
+  color: #0b86c8;
+    font-size: 18px;
+    font-weight: 700
+}
+
+.ai-and-ml-development .our-Trusted-AI-and-ML-development-partner .col-md-6 .row .col-3:before {
+  content: "";
+    width: 55%;
+    height: 1px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    background: #0b86c8
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3:not(:first-child),
+.AI-powered-solutions-for-every-industry .col-lg-4:not(:first-child) {
+  border-left: 1px solid rgba(0, 0, 0, .2)
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3,
+.AI-powered-solutions-for-every-industry .col-lg-4 {
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
+    padding: 20px;
+    text-align: center
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3 .box .icon,
+.AI-powered-solutions-for-every-industry .col-lg-4 .box .icon {
+  margin-bottom: 16px
+}
+
+.industry-gradient-bg,
+.oil-gas-software-development-company {
+  background: radial-gradient(circle at left, #2e1a04 0, #000 40%, #011627 100%)
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:not(:first-child) {
+  border-left: 1px solid rgba(0, 0, 0, .2);
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    padding: 20px;
+    text-align: center
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(4),
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(7) {
+  border-left: 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:first-child {
+  border-bottom: 1px solid rgba(0, 0, 0, .2)
+}
+
+.iot-app-development.ai-and-ml-development .AI-powered-solutions-for-every-industry .box .icon img {
+  width: 50px;
+    height: 53px;
+    object-fit: contain
+}
+
+.iot-app-development.ai-and-ml-development .leading-aiand-ml-development-company-in-india img {
+  width: 550px;
+    margin: auto;
+    display: block
+}
+
+.ai-and-ml-development .our-Trusted-AI-and-ML-development-partner {
+  background: 0 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3:nth-child(3),
+    .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(7),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(3),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(7) {
+  border-left: 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-3:nth-child(5),
+    .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(6),
+    .AI-powered-solutions-for-every-industry .col-lg-4:nth-child(5) {
+  border-bottom: 1px solid rgba(0, 0, 0, .2)
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:last-child,
+    .features-text-grid .feature-item:last-child {
+  border-bottom: 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(2n) {
+  border-left: 1px solid rgba(0, 0, 0, .2);
+        border-bottom: 1px solid rgba(0, 0, 0, .2)
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:not(:first-child) {
+  border-left: 0
+}
+
+.ai-chabot-development.iot-app-development .our-Trusted-AI-and-ML-development-partner .content-box p,
+    .ai-chabot-development.iot-app-development .process-wrapper .content-box p {
+  text-align: left
+}
+
+.tech-stack-sec .tech-item {
+  display: grid;
+    grid-template-columns: 56px 1fr;
+    gap: 8px;
+    padding: 16px 0;
+    border-top: 1px solid #dce8f2
+}
+
+.tech-stack-sec .tech-item h4 {
+  font-size: 16px;
+    color: #07142d;
+    margin: 0 0 8px;
+    font-weight: 800
+}
+
+.tech-stack-sec .tech-item p {
+  font-size: 15px;
+    color: #253044;
+    line-height: 1.65;
+    margin: 0
+}
+
+.service-item {
+  display: grid;
+    grid-template-columns: 72px minmax(0, 1fr);
+    gap: 28px;
+    padding: 24px 18px;
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    transition: .3s;
+    align-items: flex-start;
+    position: relative
+}
+
+.service-item:hover {
+  padding-left: 30px;
+    background: rgba(255, 255, 255, .02)
+}
+
+.ai-band-item::before,
+.service-item:before {
+  background: #f79b1f;
+    transition: .35s;
+    content: "";
+    top: 0;
+    opacity: 0;
+    position: absolute
+}
+
+.service-item:hover:before {
+  opacity: 1;
+    left: 0
+}
+
+.service-item:before {
+  left: -30px;
+    width: 4px;
+    height: 100%
+}
+
+.service-number {
+  width: 54px;
+    height: 54px;
+    min-width: 54px;
+    background: 0 0;
+    border: 1px solid rgba(247, 155, 31, .45);
+    color: #f79b1f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 50%
+}
+
+.common-card {
+  padding: 30px;
+    border: 1px solid #ffffff1a;
+    border-radius: 22px;
+    box-shadow: 0 18px 50px rgba(0, 0, 0, .25);
+    height: 100%;
+    transition: .35s;
+    backdrop-filter: blur(5px)
+}
+
+.common-card h3 {
+  margin: 0 0 9px;
+    color: #fff;
+    font-size: 20px
+}
+
+.common-card:hover {
+  border-color: rgba(247, 155, 31, .5);
+    transform: translateY(-7px)
+}
+
+.cutom-step-item {
+  position: relative;
+    display: grid;
+    grid-template-columns: 46px 1fr;
+    gap: 18px;
+    padding: 18px 0
+}
+
+.custom-steps:before {
+  content: "";
+    position: absolute;
+    left: 22px;
+    top: 24px;
+    bottom: 24px;
+    width: 1px;
+    background: rgba(0, 0, 0, .12)
+}
+
+.cutom-step-num {
+  z-index: 1;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    display: grid;
+    background: #111;
+    color: #f79b1f;
+    font-size: 12px;
+    font-weight: 800
+}
+
+.cutom-step-item h3 {
+  font-size: 19px;
+    margin: 1px 0 7px;
+    font-weight: 700
+}
+
+.cutom-step-item p {
+  margin: 0;
+    color: #666;
+    line-height: 1.7
+}
+
+.common-project-list {
+  border-top: 1px solid #dedede
+}
+
+.common-project {
+  display: grid;
+    grid-template-columns: 31% 69%;
+    border-bottom: 1px solid #dedede;
+    min-height: 300px;
+    transition: .4s;
+    position: relative;
+    overflow: hidden
+}
+
+.common-project::before {
+  content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 3px;
+    height: 0;
+    background: #f79b1f;
+    transition: height .45s
+}
+
+.common-project-meta {
+  padding: 45px 40px;
+    border-right: 1px solid #dedede;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.common-project-no {
+  font-size: 82px;
+    font-weight: 700;
+    line-height: .85;
+    color: transparent;
+    -webkit-text-stroke: 1px #d3d6da;
+    transition: .4s
+}
+
+.common-project:hover .common-project-no {
+  -webkit-text-stroke-color: #f79b1f;
+    transform: translateX(6px)
+}
+
+.common-project-label {
+  color: #1f2328;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px
+}
+
+.common-project-country {
+  margin: 8px 0 0;
+    font-size: 14px;
+    color: #6c757d
+}
+
+.common-project-country i {
+  color: #f79b1f;
+    margin-right: 6px
+}
+
+.common-project-content {
+  padding: 45px 55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.project-case-tag {
+  color: #f79b1f;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 12px
+}
+
+.common-project-content h4 {
+  font-size: 28px;
+    font-weight: 700;
+    color: #202124;
+    margin-bottom: 17px
+}
+
+.common-project-content>p {
+  color: #68717d;
+    line-height: 1.75;
+    font-size: 15px;
+    max-width: 800px;
+    margin-bottom: 25px
+}
+
+.common-project-tech {
+  display: flex;
+    flex-wrap: wrap;
+    gap: 9px
+}
+
+.common-project-tech span {
+  background: #fff;
+    border: 1px solid #e4e6e9;
+    padding: 8px 14px;
+    border-radius: 30px;
+    font-size: 12px;
+    color: #343a40;
+    transition: .3s
+}
+
+.common-project:hover .common-project-tech span {
+  border-color: rgba(247, 155, 31, .35)
+}
+
+.common-project-tech span:hover {
+  background: #f79b1f;
+    border-color: #f79b1f;
+    color: #fff
+}
+
+.common-project-content {
+  padding: 19px
+}
+
+.common-project-meta {
+  padding: 17px 0
+}
+
+.premium-tech-section .row.align-items-end,
+.tech-panel-heading {
+  margin-bottom: 38px
+}
+
+.tech-tab,
+.tech-tab i {
+  font-size: 13px;
+    transition: .3s
+}
+
+.tech-tabs-wrapper {
+  display: flex;
+    align-items: stretch;
+    min-height: auto;
+    margin: 0 auto
+}
+
+.tech-tabs-nav {
+  width: auto;
+    flex: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    padding: 10px;
+    background: #ffffff;
+    border: 1px solid #e5ebf0;
+    border-right: 0;
+    border-radius: 14px 0 0 14px;
+}
+
+.tech-tab {
+  position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 17px;
+    border: 0;
+    border-radius: 8px;
+    background: transparent;
+    color: #687789;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.tech-tab i {
+  width: 18px;
+    color: #174c7b
+}
+
+.tech-tab:hover {
+  color: #174c7b;
+    background: #f2f6f9
+}
+
+.tech-tab.active {
+  color: #fff;
+    background: #174c7b;
+    box-shadow: 0 7px 18px rgba(23, 76, 123, .16)
+}
+
+.tech-tabs-content {
+  flex: 1;
+    min-width: 0;
+    background: #fff;
+    border-radius: 0 14px 14px 0
+}
+
+.tech-panel {
+  display: none;
+    height: 100%;
+    min-height: auto;
+    padding: 45px 48px;
+    background: #fff;
+    border: 1px solid #e5ebf0;
+    border-radius: 0 14px 14px 0;
+    box-shadow: 0 15px 45px rgba(23, 76, 123, .06)
+}
+
+.tech-panel.active {
+  display: block;
+    animation: .35s techFade
+}
+
+.tech-items {
+  display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px
+}
+
+.tech-item {
+  display: flex;
+    align-items: center;
+    gap: 14px;
+    min-height: 72px;
+    padding: 14px 16px;
+    background: #fafcfd;
+    border: 1px solid #edf1f4;
+    border-radius: 10px;
+    transition: .3s
+}
+
+.tech-item:hover {
+  background: #fff;
+    border-color: #d7e3eb;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(23, 76, 123, .08)
+}
+
+.tech-tabs-wrapper {
+  display: block;
+        min-height: auto
+}
+
+.tech-tabs-nav {
+  width: 100%;
+        flex-direction: row;
+        flex-wrap: wrap;
+        border-right: 1px solid #e5ebf0;
+        border-bottom: 0;
+        border-radius: 14px 14px 0 0
+}
+
+.tech-tab {
+  width: auto;
+        flex: 1 1 20%;
+        justify-content: center;
+        text-align: center
+}
+
+.tech-panel {
+  min-height: auto;
+        border-top: 0;
+        border-radius: 0 0 14px 14px
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(2n) {
+  border-left: 0
+}
+
+.AI-powered-solutions-for-every-industry .col-lg-4:nth-child(5) {
+  border-bottom: 1px solid rgba(0, 0, 0, .2)
+}
+
+.service-item {
+  gap: 3px
+}
+
+.tech-tabs-nav {
+  display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 4px;
+        padding: 6px;
+        grid-auto-flow: column;
+        overflow-x: scroll
+}
+
+.tech-tab {
+  width: 98px;
+        justify-content: flex-start;
+        padding: 12px;
+        font-size: 12px
+}
+
+.tech-tab i {
+  width: 16px
+}
+
+.tech-panel {
+  min-height: auto;
+        padding: 28px 20px
+}
+
+.tech-panel-heading {
+  margin-bottom: 25px
+}
+
+.tech-panel-heading h3 {
+  font-size: 20px;
+}
+
+.tech-items {
+  grid-template-columns: 1fr
+}
+
+.tech-item {
+  min-height: 50px;
+        padding: 8px 16px
+}
+
+.tech-tab {
+  font-size: 11px
+}
+
+.tech-panel {
+  padding: 24px 16px
+}
+
+.about-gallery,
+    .results-panel,
+    .stats,
+    .tech-stack-sec .tech-item {
+  grid-template-columns: 1fr
+}
+
+/**/
+        .common-card {
+  background: linear-gradient(180deg, #121519, #0b0d10);
+}
+
+.rag-card-top {
+  display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+}
+
+.tech-tab.active {
+  background: #0f1820;
+}
+

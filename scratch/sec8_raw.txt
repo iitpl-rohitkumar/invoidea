@@ -1,0 +1,104 @@
+<section class="AI-powered-solutions-for-every-industry ptb theme-bg">
+        <div class="container" bis_skin_checked="1">
+            <div class="row" bis_skin_checked="1">
+                <div class="col-lg-12" bis_skin_checked="1">
+                    <h2 class="subheading">Enterprise RAG Solutions</h2>
+                    <h3 class="heading-2">Build Smarter AI Solutions for Your Industry</h3>
+                    <p class="text-muted">As a trusted RAG Development Company in India, we enable companies to turn
+                        their fragmented knowledge of the business into an intelligent, searchable knowledge base. Our
+                        RAG solutions integrate such knowledge bases to provide retrieval of relevant, concise and
+                        context-aware information.</p>
+                </div>
+            </div>
+            <div class="row mt-3" bis_skin_checked="1">
+                <div class="col-lg-4 col-md-6" bis_skin_checked="1">
+                    <div class="box text-start" bis_skin_checked="1">
+                        <div class="indus-benefit-icon" bis_skin_checked="1">
+                            <i class="fa-solid fa-heart-pulse"></i>
+                        </div>
+                        <div class="content" bis_skin_checked="1">
+                            <h5>Healthcare </h5>
+                            <p class="text-muted">Access to electronic medical records, clinical practice guidelines,
+                                treatment protocols, and research papers is controlled to allow healthcare providers to
+                                rapidly access accurate information, while still enforcing the compliance and
+                                security requirements of the industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6" bis_skin_checked="1">
+                    <div class="box text-start" bis_skin_checked="1">
+                        <div class="indus-benefit-icon" bis_skin_checked="1">
+                            <i class="fa-solid fa-scale-balanced"></i>
+                        </div>
+                        <div class="content" bis_skin_checked="1">
+                            <h5>Legal</h5>
+                            <p class="text-muted">Contracts, case files, precedents and regulations are what AI-powered
+                                legal assistants use based on vetted sources. This allows lawyers to devote less time to
+                                reading case law by hand and more time thinking through cases, crafting arguments, and
+                                working with clients.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6" bis_skin_checked="1">
+                    <div class="box text-start" bis_skin_checked="1">
+                        <div class="indus-benefit-icon" bis_skin_checked="1">
+                            <i class="fa-solid fa-building-columns"></i>
+                        </div>
+                        <div class="content" bis_skin_checked="1">
+                            <h5>Finance &amp; Banking</h5>
+                            <p class="text-muted">For the financial service industry, AI knowledge systems compile
+                                policies, regulatory filings, investment reports, and client information into
+                                structured, industry-specific knowledge bases. It automates and simplifies
+                                day-to-day activity, while maintaining compliance and risk management, and keeping a
+                                handle on vital information.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6" bis_skin_checked="1">
+                    <div class="box text-start" bis_skin_checked="1">
+                        <div class="indus-benefit-icon" bis_skin_checked="1">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                        </div>
+                        <div class="content" bis_skin_checked="1">
+                            <h5>Retail &amp; E-commerce</h5>
+                            <p class="text-muted">Whether it’s product discovery, customer support, inventory
+                                management, or internal knowledge sharing, retailers can now tap on Enterprise AI Search
+                                and AI Copilot Development solutions to connect the dots across locations. This is
+                                especially useful for companies with dozens of stores and scattered and inconsistent
+                                internal documentation.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6" bis_skin_checked="1">
+                    <div class="box text-start" bis_skin_checked="1">
+                        <div class="indus-benefit-icon" bis_skin_checked="1">
+                            <i class="fa-solid fa-industry"></i>
+                        </div>
+                        <div class="content" bis_skin_checked="1">
+                            <h5>Manufacturing</h5>
+                            <p class="text-muted">Technical manuals, maintenance schedules, quality paperwork, and
+                                business rules are all over the place — which means finding key information when you
+                                need it most can be a real challenge for teams. With AI-based knowledge retrieval, the
+                                right documentation is delivered instantly, enabling users to decrease downtime and
+                                reduce the blind "shining flashlights into old staleware file systems" time engineers
+                                waste during jobs. live issues</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6" bis_skin_checked="1">
+                    <div class="box text-start" bis_skin_checked="1">
+                        <div class="indus-benefit-icon" bis_skin_checked="1">
+                            <i class="fa-solid fa-laptop-code"></i>
+                        </div>
+                        <div class="content" bis_skin_checked="1">
+                            <h5>SaaS &amp; Technology</h5>
+                            <p class="text-muted">Intelligent knowledge assistants could improve customer onboarding,
+                                developer documentation, technical support, and internal collaboration. By bringing
+                                trustworthy information within reach, these tools reduce support demands and enable
+                                teams to deliver faster, more uniform customer experiences.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

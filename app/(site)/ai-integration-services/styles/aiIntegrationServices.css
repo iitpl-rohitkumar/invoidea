@@ -1,0 +1,576 @@
+/* ==========================================================================
+   AI Integration Services Page Styles - Invoidea Visual Match
+   ========================================================================== */
+
+/* Hero Banner */
+.ai-integration-page .hero-section {
+  position: relative;
+  min-height: 620px;
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 155px !important;
+  padding-bottom: 70px !important;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #021626;
+}
+
+.ai-integration-page .hero-section picture img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: right center;
+  z-index: 0;
+}
+
+.ai-integration-page .hero-section .banner-content-wrapper {
+  position: relative;
+  z-index: 2;
+}
+
+.ai-integration-page .hero-section .light-text {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Leading Info Section */
+.ai-integration-page .leading-aiand-ml-development-company-in-india {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #ffffff;
+}
+
+.ai-integration-page .leading-aiand-ml-development-company-in-india img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+  transition: transform 0.4s ease;
+}
+
+.ai-integration-page .leading-aiand-ml-development-company-in-india img:hover {
+  transform: scale(1.02);
+}
+
+/* Services Accordion Section */
+.ai-integration-page .AI-powered-solutions-for-business-growth {
+  background: #021626;
+  position: relative;
+  overflow: hidden;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+@media (min-width: 992px) {
+  .ai-integration-page .AI-powered-solutions-for-business-growth .services-content-col::after {
+    background: linear-gradient(270deg, rgb(0, 65, 123) 0%, rgb(12, 119, 189) 100%);
+    content: "";
+    position: absolute;
+    right: -100px;
+    width: 120%;
+    height: 100%;
+    top: 0;
+    z-index: -1;
+    border-radius: 20px 0 0 20px;
+    opacity: 0.15;
+    pointer-events: none;
+  }
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .image img {
+  max-height: 680px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-item {
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+  margin-bottom: 0;
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-button {
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #ffffff !important;
+  padding: 16px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  text-align: left;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-button:hover {
+  opacity: 0.95;
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-button h3 {
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+  transition: color 0.3s ease;
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-button:hover h3,
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-button:not(.collapsed) h3 {
+  color: #f79b1f;
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .short-text {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.65);
+  margin-top: 6px;
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+.ai-integration-page #aiAccordion .accordion-button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 14px 35px 14px 0;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  width: 100%;
+}
+
+.ai-integration-page #aiAccordion .accordion-button::before,
+.ai-integration-page #aiAccordion .accordion-button::after {
+  display: none !important;
+  content: none !important;
+}
+
+.ai-integration-page #aiAccordion .arrow-indicator {
+  position: absolute;
+  right: 6px;
+  top: 16px;
+  color: #ffffff;
+  transition: transform 0.3s ease, color 0.3s ease;
+  pointer-events: none;
+}
+
+.ai-integration-page #aiAccordion .accordion-button:not(.collapsed) .arrow-indicator {
+  transform: rotate(180deg);
+  color: #f79b1f;
+}
+
+.ai-integration-page #aiAccordion .accordion-button hr {
+  width: 100%;
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  margin: 12px 0 0 0;
+  opacity: 1;
+}
+
+.ai-integration-page .AI-powered-solutions-for-business-growth .accordion-body {
+  padding: 0 0 18px 0;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* Why Choose Section */
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner {
+  background-color: #f1fbff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .number h2 {
+  color: #0b86c8;
+  font-size: 26px;
+  font-weight: 700;
+  font-family: "Mulish", sans-serif;
+  margin: 0;
+  position: relative;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .col-3 {
+  position: relative;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .col-3::before {
+  content: "";
+  width: 50%;
+  height: 2px;
+  position: absolute;
+  right: 12px;
+  top: 16px;
+  background: #0b86c8;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .content-box h5 {
+  color: #0b86c8;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Mulish", sans-serif;
+  margin-bottom: 8px;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .content-box p {
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: #666666;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .why-choose-card {
+  padding: 16px 12px;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  background: transparent;
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .why-choose-card:hover {
+  transform: translateY(-4px);
+  background: #ffffff;
+  box-shadow: 0 10px 25px rgba(11, 134, 200, 0.08);
+}
+
+.ai-integration-page .our-Trusted-AI-and-ML-development-partner .image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* Process Section */
+.ai-integration-page .Why-Businesses-Choose-AI-banner-ML {
+  position: relative;
+  background-size: cover !important;
+  background-position: center !important;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.ai-integration-page .Why-Businesses-Choose-AI-banner-ML::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(2, 22, 38, 0.85);
+  z-index: 0;
+}
+
+.ai-integration-page .Why-Businesses-Choose-AI-banner-ML .container {
+  position: relative;
+  z-index: 1;
+}
+
+.ai-integration-page .search-ads {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -12px;
+  justify-content: center;
+}
+
+.ai-integration-page .search-ads .column {
+  width: 20%;
+  padding: 20px 16px;
+  text-align: center;
+  border-radius: 12px;
+  transition: all 0.35s ease;
+  position: relative;
+}
+
+.ai-integration-page .search-ads .column:hover {
+  transform: translateY(-8px);
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+}
+
+.ai-integration-page .search-ads .column svg {
+  margin-bottom: 16px;
+  transition: transform 0.35s ease;
+}
+
+.ai-integration-page .search-ads .column:hover svg {
+  transform: scale(1.15);
+}
+
+.ai-integration-page .search-ads .column h6 {
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: "Mulish", sans-serif;
+}
+
+.ai-integration-page .search-ads .column p {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+@media (max-width: 991px) {
+  .ai-integration-page .search-ads .column {
+    width: 50%;
+    margin-bottom: 24px;
+  }
+}
+
+@media (max-width: 575px) {
+  .ai-integration-page .search-ads .column {
+    width: 100%;
+  }
+}
+
+/* Industries Section */
+.ai-integration-page .AI-powered-solutions-for-every-industry {
+  padding-top: 85px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry .box {
+  padding: 28px 20px;
+  border-radius: 12px;
+  border: 1px solid #eef2f6;
+  background: #ffffff;
+  height: 100%;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry .box:hover {
+  transform: translateY(-6px);
+  border-color: #009fe3 !important;
+  box-shadow: 0 15px 35px rgba(0, 159, 227, 0.12);
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry .icon {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  transition: transform 0.3s ease;
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry .box:hover .icon {
+  transform: scale(1.1);
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry .icon img {
+  max-width: 58px;
+  max-height: 58px;
+  object-fit: contain;
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry h5 {
+  font-family: "Mulish", sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  color: #171717;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.ai-integration-page .AI-powered-solutions-for-every-industry p {
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: #666666;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+/* FAQ Section */
+.ai-integration-page .faq-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #fbfdff;
+  position: relative;
+}
+
+.ai-integration-page .faq-section.overlayy-bg::before {
+  content: "";
+  position: absolute;
+  border-radius: 408px;
+  background: rgba(41, 171, 226, 0.12);
+  filter: blur(100px);
+  width: 240px;
+  height: 240px;
+  left: 0;
+  bottom: -60px;
+  pointer-events: none;
+}
+
+.ai-integration-page .faq-section .accordion-item {
+  border: none;
+  background: transparent;
+  margin-bottom: 18px;
+  border-radius: 12px;
+}
+
+.ai-integration-page .faq-section .accordion-button {
+  padding: 18px 22px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 10px !important;
+  background: #ffffff;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.05);
+  color: #171717;
+  font-family: "Mulish", sans-serif;
+  border: 1px solid #edf1f7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.ai-integration-page .faq-section .accordion-button:hover {
+  background-color: #f8fbff;
+  border-color: #cbe3f7;
+}
+
+.ai-integration-page .faq-section .accordion-button::after {
+  content: "+";
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.7);
+  transform: none !important;
+  background-image: none !important;
+  line-height: 1;
+  font-weight: 400;
+}
+
+.ai-integration-page .faq-section .accordion-button:not(.collapsed)::after {
+  content: "–";
+  color: #f79b1f;
+}
+
+.ai-integration-page .faq-section .accordion-body {
+  background: #fdfaf6;
+  padding: 20px 22px;
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  color: #4e4e4e;
+  font-size: 15px;
+  line-height: 1.7;
+  border: 1px solid #fae8d3;
+  border-top: none;
+}
+
+.ai-integration-page .faq-section .accordion-body ul {
+  padding-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ai-integration-page .faq-section .accordion-body ul li {
+  list-style-type: disc;
+  margin-bottom: 8px;
+  font-size: 14.5px;
+  line-height: 1.6;
+}
+
+/* Reach Out Contact Section */
+.ai-integration-page .footer-form-wrapper {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.ai-integration-page .talk-card {
+  background: linear-gradient(135deg, #021626 0%, #082944 100%);
+  border-radius: 16px;
+  padding: 32px 28px;
+  color: #ffffff;
+  margin-top: 24px;
+  box-shadow: 0 15px 35px rgba(2, 22, 38, 0.2);
+}
+
+.ai-integration-page .talk-card h4 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Mulish", sans-serif;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
+
+.ai-integration-page .talk-card p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.ai-integration-page .project-form {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 36px 32px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+  border: 1px solid #edf1f7;
+}
+
+.ai-integration-page .project-form .form-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #333333;
+  margin-bottom: 6px;
+}
+
+.ai-integration-page .project-form .form-control,
+.ai-integration-page .project-form .form-select {
+  border-radius: 8px;
+  border: 1px solid #ced4da;
+  font-size: 15px;
+  padding: 10px 14px;
+  transition: all 0.2s ease;
+  font-family: "Mulish", sans-serif;
+}
+
+.ai-integration-page .project-form .form-control:focus,
+.ai-integration-page .project-form .form-select:focus {
+  border-color: #f79b1f;
+  box-shadow: 0 0 0 3px rgba(247, 155, 31, 0.15);
+  outline: none;
+}
+
+.ai-integration-page .project-form textarea.form-control {
+  min-height: 110px;
+  resize: vertical;
+}
+
+.ai-integration-page .project-form .btn-submit {
+  background: linear-gradient(90deg, #f79b1f 0%, #f16b22 100%);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 14px 28px;
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(247, 155, 31, 0.3);
+}
+
+.ai-integration-page .project-form .btn-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(247, 155, 31, 0.45);
+}

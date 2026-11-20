@@ -1,0 +1,161 @@
+<section class="rag-case-studies ptb  position-relative overlayy-bg bg-light">
+        <div class="container" bis_skin_checked="1">
+
+            <div class="rag-case-heading" bis_skin_checked="1">
+                <h2 class="subheading">Retrieval Augmented Generation Development Company</h2>
+                <h3 class="heading-2">See How We Turn Enterprise Data Into Intelligent AI</h3>
+                <p class="text-muted">
+                    We have built AI knowledge and document intelligence solutions in the healthcare,
+                    legal, enterprise, and manufacturing industries. From RAG-based knowledge assistants
+                    to semantic document search, these platforms were created for making complex
+                    information quicker to find, simpler to use, and more actionable.
+                </p>
+            </div>
+
+            <div class="common-project-list" bis_skin_checked="1">
+
+                <!-- 01 -->
+                <div class="common-project" bis_skin_checked="1">
+                    <div class="common-project-meta" bis_skin_checked="1">
+                        <span class="common-project-no">01</span>
+
+                        <div bis_skin_checked="1">
+                            <span class="common-project-label">Healthcare</span>
+                            <p class="common-project-country">
+                                <i class="fa-solid fa-location-dot"></i>
+                                UAE
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="common-project-content" bis_skin_checked="1">
+                        <span class="project-case-tag">AI Knowledge Assistant</span>
+
+                        <h4>Healthcare Knowledge Assistant</h4>
+
+                        <p>
+                            A health service provider couldn’t maintain uniformity in clinical guidelines
+                            and treatment protocols between departments. We developed a secure RAG-based
+                            knowledge assistant linked to internal medical documents and research
+                            repositories, enabling doctors to obtain verified information more quickly
+                            and minimizing time spent searching among sources.
+                        </p>
+
+                        <div class="common-project-tech" bis_skin_checked="1">
+                            <span>OpenAI GPT</span>
+                            <span>LangChain</span>
+                            <span>Pinecone</span>
+                            <span>AWS</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 02 -->
+                <div class="common-project" bis_skin_checked="1">
+                    <div class="common-project-meta" bis_skin_checked="1">
+                        <span class="common-project-no">02</span>
+
+                        <div bis_skin_checked="1">
+                            <span class="common-project-label">Legal</span>
+                            <p class="common-project-country">
+                                <i class="fa-solid fa-location-dot"></i>
+                                Australia
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="common-project-content" bis_skin_checked="1">
+                        <span class="project-case-tag">Document Intelligence</span>
+
+                        <h4>Legal Document Intelligence Platform</h4>
+
+                        <p>
+                            A law firm was dedicating significant time to manually analyzing contracts,
+                            compliance materials, and precedent. We have developed a document intelligence
+                            platform that utilizes semantic search to find relevant content legal
+                            information beyond keyword matching and assists legal team on speeding up
+                            research and lessening manual work.
+                        </p>
+
+                        <div class="common-project-tech" bis_skin_checked="1">
+                            <span>LlamaIndex</span>
+                            <span>Qdrant</span>
+                            <span>OpenAI Embeddings</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 03 -->
+                <div class="common-project" bis_skin_checked="1">
+                    <div class="common-project-meta" bis_skin_checked="1">
+                        <span class="common-project-no">03</span>
+
+                        <div bis_skin_checked="1">
+                            <span class="common-project-label">Enterprise</span>
+                            <p class="common-project-country">
+                                <i class="fa-solid fa-location-dot"></i>
+                                USA
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="common-project-content" bis_skin_checked="1">
+                        <span class="project-case-tag">Enterprise Copilot</span>
+
+                        <h4>Enterprise Employee Copilot</h4>
+
+                        <p>
+                            Employees were relying on multiple portals to find HR policies, operational
+                            guidelines, and internal documents. We built a centralized AI Copilot
+                            connected to multiple knowledge repositories, allowing employees to surface
+                            accurate information within seconds while reducing dependency on internal
+                            support teams.
+                        </p>
+
+                        <div class="common-project-tech" bis_skin_checked="1">
+                            <span>LangChain</span>
+                            <span>Azure OpenAI</span>
+                            <span>Azure AI Search</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 04 -->
+                <div class="common-project" bis_skin_checked="1">
+                    <div class="common-project-meta" bis_skin_checked="1">
+                        <span class="common-project-no">04</span>
+
+                        <div bis_skin_checked="1">
+                            <span class="common-project-label">Manufacturing</span>
+                            <p class="common-project-country">
+                                <i class="fa-solid fa-location-dot"></i>
+                                UK
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="common-project-content" bis_skin_checked="1">
+                        <span class="project-case-tag">Intelligent Search</span>
+
+                        <h4>Manufacturing Document Search</h4>
+
+                        <p>
+                            Technical teams at a manufacturing company spent hours searching through
+                            thousands of maintenance manuals with inconsistent naming and file structures.
+                            We developed an intelligent document search platform combining semantic search
+                            with Retrieval Augmented Generation, making technical information easier to
+                            locate and improving maintenance workflows.
+                        </p>
+
+                        <div class="common-project-tech" bis_skin_checked="1">
+                            <span>Milvus</span>
+                            <span>OpenAI GPT</span>
+                            <span>AWS</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>

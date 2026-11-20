@@ -1,0 +1,270 @@
+import React from 'react';
+
+export const TravelerAppSection: React.FC = () => {
+  return (
+    <section className="position-relative industry-app-services-wrapper customer-app-services-wrapper bg-gradient-dark mt-0" id="customer-app-development" style={{"overflow":"hidden"}}>
+    <div className="bg-image desktop-show">
+        <img src="/assets/taxi_customer-app-development-bg.webp" alt="travel-app-development-company-in-india" className="img-fluid position-absolute top-0 start-0 w-100 h-100 object-fit-cover" />
+    </div>
+    <div className="container">
+        <div className="row align-items-center">
+            <div className="col-lg-9">
+                <div>
+                    <h3 className="heading-2" style={{"color":"#17B4C8"}}>Traveler App</h3>
+                    <p className="light-text">We build the traveler-facing side of the platform, bringing search,
+                        booking, planning and payments together into one seamless experience from the first search
+                        to the final review.</p>
+                </div>
+                <div className="row mt-01">
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
+                                        <path d="M14.4 4.98049C13.2542 4.98049 12.1342 5.32045 11.1817 5.95733C10.2292 6.59421 9.4871 7.49937 9.04932 8.55823C8.61153 9.61709 8.49775 10.782 8.72237 11.9056C8.947 13.0291 9.49994 14.0608 10.3112 14.8699C11.1224 15.6791 12.1555 16.2293 13.2796 16.4511C14.4038 16.6728 15.5684 16.556 16.6262 16.1154C17.6839 15.6749 18.5871 14.9304 19.2215 13.9763C19.8559 13.0222 20.193 11.9013 20.19 10.7555C20.19 9.99584 20.0401 9.24366 19.749 8.54202C19.4578 7.84039 19.0311 7.20309 18.4932 6.66663C17.9554 6.13018 17.317 5.70511 16.6146 5.41577C15.9122 5.12643 15.1596 4.97852 14.4 4.98049ZM24.525 16.5005C24.4359 16.5023 24.3501 16.5345 24.2819 16.5918C24.2137 16.6491 24.1671 16.728 24.15 16.8155L23.88 18.7205C23.4483 18.9034 23.0362 19.1295 22.65 19.3955L20.85 18.6755C20.7642 18.661 20.676 18.6717 20.5961 18.7063C20.5162 18.7409 20.4481 18.7979 20.4 18.8705L18.9 21.3605C18.8562 21.4358 18.8412 21.5244 18.8578 21.6099C18.8743 21.6954 18.9213 21.772 18.99 21.8255L20.49 23.0105C20.4263 23.5085 20.4263 24.0125 20.49 24.5105L18.99 25.6955C18.9224 25.7464 18.8759 25.8204 18.8593 25.9034C18.8427 25.9863 18.8572 26.0725 18.9 26.1455L20.4 28.6505C20.49 28.8455 20.685 28.8455 20.85 28.8455L22.65 28.1105C23.0303 28.3899 23.4433 28.6216 23.88 28.8005L24.15 30.7055C24.1646 30.7929 24.211 30.8718 24.2802 30.9272C24.3494 30.9825 24.4365 31.0104 24.525 31.0055H27.42C27.5034 31.0032 27.5833 30.972 27.6462 30.9173C27.7092 30.8626 27.7511 30.7877 27.765 30.7055L28.035 28.8005C28.4606 28.6088 28.8674 28.3778 29.25 28.1105L31.035 28.8455C31.215 28.8455 31.41 28.8455 31.515 28.6505L33.015 26.1455C33.0578 26.0725 33.0723 25.9863 33.0557 25.9034C33.0391 25.8204 32.9926 25.7464 32.925 25.6955L31.425 24.5105C31.44 24.2657 31.44 24.0203 31.425 23.7755C31.4466 23.536 31.4466 23.295 31.425 23.0555L32.925 21.8705C32.9912 21.8152 33.0363 21.7387 33.0527 21.654C33.0691 21.5693 33.0558 21.4815 33.015 21.4055L31.515 18.9155C31.425 18.7205 31.23 18.7205 31.05 18.7205L29.25 19.5005C28.8673 19.229 28.4546 19.0025 28.02 18.8255L27.75 16.9205C27.7428 16.8368 27.7052 16.7587 27.6445 16.7007C27.5837 16.6427 27.5039 16.6088 27.42 16.6055H24.69M14.565 19.5005C8.175 19.5005 3 22.0505 3 25.2455V28.1255H16.995C16.3636 26.7915 16.036 25.3339 16.036 23.858C16.036 22.3821 16.3636 20.9245 16.995 19.5905C16.1875 19.5121 15.3761 19.482 14.565 19.5005ZM25.965 21.6455C26.2648 21.6205 26.5665 21.658 26.8511 21.7556C27.1356 21.8532 27.3969 22.0088 27.6182 22.2125C27.8396 22.4162 28.0163 22.6636 28.1372 22.9391C28.2581 23.2146 28.3205 23.5122 28.3205 23.813C28.3205 24.1138 28.2581 24.4114 28.1372 24.6869C28.0163 24.9624 27.8396 25.2098 27.6182 25.4135C27.3969 25.6172 27.1356 25.7728 26.8511 25.8703C26.5665 25.9679 26.2648 26.0054 25.965 25.9805C25.4213 25.9352 24.9144 25.6872 24.545 25.2858C24.1755 24.8843 23.9705 24.3586 23.9705 23.813C23.9705 23.2674 24.1755 22.7417 24.545 22.3402C24.9144 21.9387 25.4213 21.6908 25.965 21.6455Z" fill="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    User Registration
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 32 32" fill="none">
+                                        <path d="M21.3334 10.6654C21.3334 13.6109 18.9456 15.9987 16.0001 15.9987C13.0546 15.9987 10.6667 13.6109 10.6667 10.6654C10.6667 7.71985 13.0546 5.33203 16.0001 5.33203C18.9456 5.33203 21.3334 7.71985 21.3334 10.6654Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M5.33325 28V25.3333C5.33325 23.2116 6.17611 21.1768 7.6764 19.6765C9.17669 18.1762 11.2115 17.3333 13.3333 17.3333H18.6666C20.7883 17.3333 22.8232 18.1762 24.3234 19.6765C25.8237 21.1768 26.6666 23.2116 26.6666 25.3333V28M23.9999 4L27.9999 8M25.9999 2L29.9999 6" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Profile Management
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M26.6666 13.3346C26.6666 21.3346 15.9999 29.3346 15.9999 29.3346C15.9999 29.3346 5.33325 21.3346 5.33325 13.3346C5.33325 10.5057 6.45706 7.79255 8.45745 5.79216C10.4578 3.79178 13.1709 2.66797 15.9999 2.66797C18.8289 2.66797 21.542 3.79178 23.5424 5.79216C25.5428 7.79255 26.6666 10.5057 26.6666 13.3346Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M19.3334 13.3333C19.3334 15.1743 17.841 16.6667 16.0001 16.6667C14.1591 16.6667 12.6667 15.1743 12.6667 13.3333C12.6667 11.4924 14.1591 10 16.0001 10C17.841 10 19.3334 11.4924 19.3334 13.3333Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Destination Search
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M14.6667 17.3346L2.66675 12.0013L29.3334 2.66797L20.0001 29.3346L14.6667 17.3346ZM29.3334 2.66797L14.6667 17.3346" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Flight Booking
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M5.33341 28V4H21.3334V12M5.33341 28H2.66675M5.33341 28H12.0001M21.3334 12V28M21.3334 12H26.6667V28M21.3334 28H14.6667M21.3334 28H26.6667M26.6667 28H29.3334M12.0001 28H14.6667M12.0001 28V24H14.6667V28M10.6667 9.33333H16.0001M10.6667 14.6667H16.0001M10.6667 20H16.0001" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Hotel Booking
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M10 7.33333L4 10.6667V24L16 30.6667L28 24V10.6667L16 4L10 7.33333ZM28 10.6667L22 14M22 14L16 17.3333M22 14L10 7.33333M16 17.3333L4 10.6667M16 17.3333V30.6667" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Tour Package Booking
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M3.23818 16L6.66675 8H8.00008M3.23818 16L2.66675 17.3333V25.3333H6.66675V21.3333H8.00008H8.01342H24.0001H24.0134H25.3334V25.3333H29.3334V17.3333L28.762 16M3.23818 16H2.66675M3.23818 16H5.33341M28.762 16L25.3334 8H24.0001M28.762 16H26.6667M28.762 16H29.3334M24.0001 8H8.00008M24.0001 8L26.6667 16M8.00008 8L5.33341 16M5.33341 16H26.6667" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Car Rental
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M20 8L12 4L4 8V28L12 24M12 4V24M12 24L20 28L28 24V4L20 8M20 8V28" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Trip Planning
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M10.6667 5.33333H28.0001M10.6667 14.6667H28.0001M10.6667 24H28.0001M2.66675 5.33333L4.00008 6.66667L6.66675 4M2.66675 14.6667L4.00008 16L6.66675 13.3333M2.66675 24L4.00008 25.3333L6.66675 22.6667" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Itinerary Management
+
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M28 16C28 22.6274 22.6274 28 16 28C9.37258 28 4 22.6274 4 16C4 9.37258 9.37258 4 16 4C22.6274 4 28 9.37258 28 16Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M16 9.33333V16L20 18.6667M24 4L28 8M4 4L8 8" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Live Booking Status
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M7.99992 13.332H23.9999C25.4727 13.332 26.6666 14.5259 26.6666 15.9987V26.6654C26.6666 28.1381 25.4727 29.332 23.9999 29.332H7.99992C6.52716 29.332 5.33325 28.1381 5.33325 26.6654V15.9987C5.33325 14.5259 6.52716 13.332 7.99992 13.332Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M10.6667 13.3346V8.0013C10.6667 6.58681 11.2287 5.23026 12.2288 4.23007C13.229 3.22987 14.5856 2.66797 16.0001 2.66797C17.4146 2.66797 18.7711 3.22987 19.7713 4.23007C20.7715 5.23026 21.3334 6.58681 21.3334 8.0013V13.3346M12.0001 21.3346L14.6667 24.0013L20.0001 18.668" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Secure Payments
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M16.0001 2.66797L20.1334 11.068L29.3334 12.4013L22.6667 18.9346L24.2667 28.1346L16.0001 23.7346L7.73342 28.1346L9.33341 18.9346L2.66675 12.4013L11.8667 11.068L16.0001 2.66797Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Reviews &amp; Ratings
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M27.7334 6.13513C27.0519 5.4498 26.2417 4.90594 25.3493 4.53482C24.4569 4.16371 23.4999 3.97266 22.5334 3.97266C21.5669 3.97266 20.6099 4.16371 19.7175 4.53482C18.8251 4.90594 18.0149 5.4498 17.3334 6.13513L16.0001 7.6018L14.5334 6.13513C13.1543 4.75601 11.2838 3.98122 9.3334 3.98122C7.38302 3.98122 5.51253 4.75601 4.1334 6.13513C2.75428 7.51426 1.97949 9.38475 1.97949 11.3351C1.97949 13.2855 2.75428 15.156 4.1334 16.5351L16.0001 28.0018L27.7334 16.5351C28.4187 15.8536 28.9626 15.0434 29.3337 14.151C29.7048 13.2586 29.8959 12.3016 29.8959 11.3351C29.8959 10.3686 29.7048 9.41167 29.3337 8.51927C28.9626 7.62687 28.4187 6.81662 27.7334 6.13513Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Wishlist
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M2.66675 6.66797H10.6667M10.6667 6.66797H16.0001M10.6667 6.66797V2.66797M16.0001 6.66797H18.6667M16.0001 6.66797C15.2064 11.4299 13.4679 14.7746 10.7846 17.5456M10.7846 17.5456C8.95996 19.4299 6.69846 21.0489 4.00008 22.668M10.7846 17.5456C8.70838 15.7714 6.81508 13.6313 5.33341 10.668M10.7846 17.5456C12.4451 18.9646 14.2226 20.1496 16.0001 21.3346M17.3334 29.3346L24.0001 13.3346L30.6667 29.3346M20.0001 24.0013H28.0001" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Multi-language Support
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M9.66667 2V6M9.66667 6V14M9.66667 6H13.6667M9.66667 6H7C5.93913 6 4.92172 6.42143 4.17157 7.17157C3.42143 7.92172 3 8.93913 3 10C3 11.0609 3.42143 12.0783 4.17157 12.8284C4.92172 13.5786 5.93913 14 7 14H9.66667M9.66667 14V22M9.66667 14H11C12.0609 14 13.0783 14.4214 13.8284 15.1716C14.5786 15.9217 15 16.9391 15 18C15 19.0609 14.5786 20.0783 13.8284 20.8284C13.0783 21.5786 12.0609 22 11 22H9.66667M9.66667 22V23.3333M9.66667 22H4.33333M28.3333 10V2H19M28.3333 2L20.3333 10M19 15.3333V23.3333H28.3333M19 23.3333L27 15.3333" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Multi-currency Support
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M16 3.66797L26 7.33464V15.3346C26 21.668 21.6667 26.3346 16 28.3346C10.3333 26.3346 6 21.668 6 15.3346V7.33464L16 3.66797Z" strokeWidth="2.33" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M16.0001 8.66797V13.668M16.0001 13.668V21.2157M16.0001 13.668L9.66675 17.668M16.0001 13.668L22.3334 17.668M13.3334 23.0013L16.0001 21.3346L18.6667 23.0013" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M25 12C25.5253 12 26.0454 11.8965 26.5307 11.6955C27.016 11.4945 27.457 11.1999 27.8284 10.8284C28.1999 10.457 28.4945 10.016 28.6955 9.53073C28.8965 9.04543 29 8.52529 29 8C29 7.47471 28.8965 6.95457 28.6955 6.46927C28.4945 5.98396 28.1999 5.54301 27.8284 5.17157C27.457 4.80014 27.016 4.5055 26.5307 4.30448C26.0454 4.10346 25.5253 4 25 4C23.9391 4 22.9217 4.42143 22.1716 5.17157C21.4214 5.92172 21 6.93913 21 8C21 9.06087 21.4214 10.0783 22.1716 10.8284C22.9217 11.5786 23.9391 12 25 12Z" fill="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6 className="text-white">
+                                    Travel Notifications
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="col-lg-3 desktop-show">
+                <div className="owl-carousel mobile-screen-carousel owl-theme">
+                    <div>
+                        <img src="/assets/traveler-app-mockup-1.webp" className="img-fluid" alt="travel-app-development-company-in-india" />
+                    </div>
+                    <div><img src="/assets/traveler-app-mockup-2.webp" className="img-fluid" alt="travel-app-development-company-in-india" /></div>
+                    <div><img src="/assets/traveler-app-mockup-3.webp" className="img-fluid" alt="travel-app-development-company-in-india" /></div>
+                </div>
+                {/*  Arrows  */}
+                <div className="carousel-nav">
+                    <button className="custom-prev">←</button>
+                    <button className="custom-next">→</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+  );
+};

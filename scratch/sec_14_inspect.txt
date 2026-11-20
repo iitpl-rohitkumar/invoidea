@@ -1,0 +1,34 @@
+<section class="industry-reach-wider-audience-wrapper ptb  pb-lg-0 border-bg " style="background: url(https://invoidea.com/service08/assets/images/background/taxi-booking-wider.webp);background-position: center;background-size: cover;background-attachment: fixed;">
+    <div class="container" bis_skin_checked="1">
+        <div class="row" bis_skin_checked="1">
+            <div class="col-lg-7" bis_skin_checked="1">
+                <div bis_skin_checked="1">
+                    <h2 class="subheading">Travel Booking Application Development</h2>
+                    <h3 class="industry-main-heading text-white heading-2">
+                        Create Your <span style="color:#17B4C8">Travel App</span>
+                        Today and Simplify the Way People Book Trips!
+                    </h3>
+                </div>
+                <ul>
+                    <li>
+                        Reach more customers with a scalable travel app designed for multiple markets and destinations.
+                    </li>
+                    <li>
+                        Simplify bookings, payments and itinerary management through a centralized platform.
+                    </li>
+                    <li>
+                        Increase conversions with competitive pricing, exclusive offers and a seamless booking process.
+                    </li>
+                    <li>
+                        Reduce operational costs by automating routine tasks and streamlining travel management.
+                    </li>
+                </ul>
+                <button type="button" class="octf-btn rounded" data-bs-toggle="modal" data-bs-target="#consultation-modal" aria-label="Open consultation form" style="background-color: #17B4C8;border-color: #17B4C8; color: #fff;">Let’s Have a
+                    Discussion</button>
+            </div>
+            <div class="col-lg-5  d-lg-block d-none position-relative text-end" bis_skin_checked="1">
+                <img src="https://invoidea.com/service08/assets/images/background/travel-app-development-bottom-img.webp" alt="travel-app-development-company-in-india services" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>

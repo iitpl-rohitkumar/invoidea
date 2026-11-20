@@ -1,0 +1,177 @@
+import React from 'react';
+
+export const VendorAppSection: React.FC = () => {
+  return (
+    <section className="taxi-wrapper industry-app-services-wrapper restaurant-app-services-wrapper my-0" id="delivery-app-development" style={{"background":"#F2F2F2"}}>
+    <div className="container">
+        <div className="row align-items-center">
+            <div className="col-lg-9 col-md-9 order-md-2">
+                <div>
+                    <h3 className="heading-2" style={{"color":"#000"}}>Vendor App</h3>
+                    <p className="text-muted">The vendor app gives travel partners direct control over bookings,
+                        inventory, pricing, packages, and customer interactions from a single platform.</p>
+                </div>
+                <div className="row mt-01">
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M6.66667 6.66797H25.3333C26.8061 6.66797 28 7.86188 28 9.33464V26.668C28 28.1407 26.8061 29.3346 25.3333 29.3346H6.66667C5.19391 29.3346 4 28.1407 4 26.668V9.33464C4 7.86188 5.19391 6.66797 6.66667 6.66797Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M9.33333 2.66797V10.668M22.6667 2.66797V10.668M4 14.668H28M10.6667 21.3346L14.6667 25.3346L21.3333 18.668" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Booking Management
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M10 7.33333L4 10.6667V24L16 30.6667L28 24V10.6667L16 4L10 7.33333ZM28 10.6667L22 14M22 14L16 17.3333M22 14L10 7.33333M16 17.3333L4 10.6667M16 17.3333V30.6667" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Tour Package Management
+
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M5.33341 28V4H21.3334V12M5.33341 28H2.66675M5.33341 28H12.0001M21.3334 12V28M21.3334 12H26.6667V28M21.3334 28H14.6667M21.3334 28H26.6667M26.6667 28H29.3334M12.0001 28H14.6667M12.0001 28V24H14.6667V28M10.6667 9.33333H16.0001M10.6667 14.6667H16.0001M10.6667 20H16.0001" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Hotel Inventory
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M29.3334 14.668L14.6667 29.3346L2.66675 17.3346V2.66797H17.3334L29.3334 14.668Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M10.6667 9.33333C10.6667 10.0697 10.0697 10.6667 9.33333 10.6667C8.59695 10.6667 8 10.0697 8 9.33333C8 8.59695 8.59695 8 9.33333 8C10.0697 8 10.6667 8.59695 10.6667 9.33333Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M15.4095 20.4102L16 11.0006M12.8819 15.5283L12.8919 15.5194M18.5277 15.8826L18.5377 15.8737" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Pricing Management
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M17.3334 9.33333C17.3334 12.2789 14.9456 14.6667 12.0001 14.6667C9.05456 14.6667 6.66675 12.2789 6.66675 9.33333C6.66675 6.38781 9.05456 4 12.0001 4C14.9456 4 17.3334 6.38781 17.3334 9.33333Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M2.66675 28V25.3333C2.66675 23.2116 3.5096 21.1768 5.00989 19.6765C6.51018 18.1762 8.54502 17.3333 10.6667 17.3333H13.3334C15.4551 17.3333 17.49 18.1762 18.9903 19.6765C20.4906 21.1768 21.3334 23.2116 21.3334 25.3333V28M21.3334 4C22.7479 4 24.1045 4.5619 25.1047 5.5621C26.1048 6.56229 26.6667 7.91885 26.6667 9.33333C26.6667 10.7478 26.1048 12.1044 25.1047 13.1046C24.1045 14.1048 22.7479 14.6667 21.3334 14.6667M25.3334 18.6667C26.6137 19.2198 27.6883 20.1606 28.4058 21.3566C29.1234 22.5525 29.4478 23.9433 29.3334 25.3333V28" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Customer Management
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <g clipPath="url(#clip0_352_8131)">
+                                            <path d="M11.8421 23.5L22.1579 12.3333M17.7368 3L22.1579 6.11111L27.3158 6.88889L28.0526 12.3333L31 17L28.0526 21.6667L27.3158 27.1111L22.1579 27.8889L17.7368 31L13.3158 27.8889L8.15789 27.1111L5.94737 21.6667L3 17L5.94737 12.3333L6.68421 6.88889L11.8421 6.11111L17.7368 3Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            <path d="M14.6667 13.3333C14.6667 14.0697 14.0697 14.6667 13.3333 14.6667C12.597 14.6667 12 14.0697 12 13.3333C12 12.597 12.597 12 13.3333 12C14.0697 12 14.6667 12.597 14.6667 13.3333Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                            <path d="M23.6667 21.3333C23.6667 22.0697 23.0697 22.6667 22.3333 22.6667C21.597 22.6667 21 22.0697 21 21.3333C21 20.597 21.597 20 22.3333 20C23.0697 20 23.6667 20.597 23.6667 21.3333Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_352_8131">
+                                                <rect width="32" height="32" fill="white"></rect>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Offers &amp; Discounts
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M26.6666 10.668L18.6666 2.66797H5.33325V29.3346H26.6666V10.668ZM18.6666 2.66797V10.668H26.6666M10.6666 22.668V25.3346M15.9999 17.3346V25.3346M21.3333 14.668V25.3346" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Reports
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M6.66667 6.66797H25.3333C26.8061 6.66797 28 7.86188 28 9.33464V26.668C28 28.1407 26.8061 29.3346 25.3333 29.3346H6.66667C5.19391 29.3346 4 28.1407 4 26.668V9.33464C4 7.86188 5.19391 6.66797 6.66667 6.66797Z" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                        <path d="M9.33333 2.66797V10.668M22.6667 2.66797V10.668M4 14.668H28M9.33333 20.0013H12M17.3333 20.0013H20M9.33333 25.3346H12M22.6667 20.0013H22.68" strokeWidth="2.33333" strokeLinecap="round" strokeLinejoin="round" stroke="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Calendar Management
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-4 col-6">
+                        <div className="industry-appdevelopment-box">
+                            <div className="text-center">
+                                <div>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                        <path d="M18 13C18 12.7348 17.8946 12.4804 17.7071 12.2929C17.5196 12.1054 17.2652 12 17 12H9C8.73478 12 8.48043 12.1054 8.29289 12.2929C8.10536 12.4804 8 12.7348 8 13C8 13.2652 8.10536 13.5196 8.29289 13.7071C8.48043 13.8946 8.73478 14 9 14H17C17.2652 14 17.5196 13.8946 17.7071 13.7071C17.8946 13.5196 18 13.2652 18 13ZM16.6667 17C16.6667 16.7348 16.5613 16.4804 16.3738 16.2929C16.1862 16.1054 15.9319 16 15.6667 16H9C8.73478 16 8.48043 16.1054 8.29289 16.2929C8.10536 16.4804 8 16.7348 8 17C8 17.2652 8.10536 17.5196 8.29289 17.7071C8.48043 17.8946 8.73478 18 9 18H15.6667C15.9319 18 16.1862 17.8946 16.3738 17.7071C16.5613 17.5196 16.6667 17.2652 16.6667 17ZM17 20C17.2652 20 17.5196 20.1054 17.7071 20.2929C17.8946 20.4804 18 20.7348 18 21C18 21.2652 17.8946 21.5196 17.7071 21.7071C17.5196 21.8946 17.2652 22 17 22H9C8.73478 22 8.48043 21.8946 8.29289 21.7071C8.10536 21.5196 8 21.2652 8 21C8 20.7348 8.10536 20.4804 8.29289 20.2929C8.48043 20.1054 8.73478 20 9 20H17Z" fill="#17B4C8"></path>
+                                        <path d="M8 28.9998H25.3333C26.3058 28.9998 27.2384 28.6135 27.9261 27.9259C28.6137 27.2383 29 26.3056 29 25.3332V17.9998C29 17.7346 28.8946 17.4803 28.7071 17.2927C28.5196 17.1052 28.2652 16.9998 28 16.9998H23.6667V6.5905C23.6667 4.69317 21.5213 3.58917 19.9773 4.69183L19.744 4.8585C19.2331 5.2212 18.6217 5.4156 17.9951 5.41465C17.3686 5.41369 16.7578 5.21743 16.248 4.85317C15.3968 4.24739 14.3781 3.92187 13.3333 3.92188C12.2886 3.92187 11.2698 4.24739 10.4187 4.85317C9.90883 5.21743 9.29811 5.41369 8.67152 5.41465C8.04492 5.4156 7.43362 5.2212 6.92267 4.8585L6.68933 4.69183C5.14533 3.58917 3 4.69183 3 6.5905V23.9998C3 25.3259 3.52678 26.5977 4.46447 27.5354C5.40215 28.4731 6.67392 28.9998 8 28.9998ZM11.5813 6.47983C12.0933 6.11643 12.7055 5.9212 13.3333 5.9212C13.9611 5.9212 14.5734 6.11643 15.0853 6.47983C15.9343 7.08666 16.9514 7.41345 17.9949 7.41465C19.0385 7.41584 20.0563 7.09138 20.9067 6.4865L21.14 6.31983C21.1898 6.28438 21.2484 6.2633 21.3094 6.2589C21.3703 6.2545 21.4313 6.26696 21.4857 6.2949C21.5401 6.32284 21.5857 6.36519 21.6176 6.41733C21.6495 6.46946 21.6665 6.52937 21.6667 6.5905V25.3332C21.6667 25.9332 21.8107 26.4998 22.0667 26.9998H8C7.20435 26.9998 6.44129 26.6838 5.87868 26.1212C5.31607 25.5585 5 24.7955 5 23.9998V6.5905C5.00016 6.52937 5.01713 6.46946 5.04904 6.41733C5.08096 6.36519 5.1266 6.32284 5.18097 6.2949C5.23534 6.26696 5.29634 6.2545 5.35731 6.2589C5.41828 6.2633 5.47687 6.28438 5.52667 6.31983L5.76 6.4865C6.61033 7.09138 7.62821 7.41584 8.67173 7.41465C9.71525 7.41345 10.7324 7.08666 11.5813 6.47983ZM23.6667 25.3332V18.9998H27V25.3332C27 25.7752 26.8244 26.1991 26.5118 26.5117C26.1993 26.8242 25.7754 26.9998 25.3333 26.9998C24.8913 26.9998 24.4674 26.8242 24.1548 26.5117C23.8423 26.1991 23.6667 25.7752 23.6667 25.3332Z" fillRule="evenodd" clipRule="evenodd" fill="#17B4C8"></path>
+                                    </svg>
+                                </div>
+                                <h6>
+                                    Payment Management
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className="col-lg-3 desktop-show">
+                <div className="owl-carousel mobile-screen-carousel owl-theme">
+                    <div>
+                        <img src="/assets/travel-vendor-mockup-1.webp" className="img-fluid" alt="travel-app-development-company-in-india" />
+                    </div>
+                    <div><img src="/assets/travel-vendor-mockup-2.webp" className="img-fluid" alt="travel-app-development-company-in-india" /></div>
+                    <div><img src="/assets/travel-vendor-mockup-3.webp" className="img-fluid" alt="travel-app-development-company-in-india" /></div>
+                </div>
+                {/*  Arrows  */}
+                <div className="carousel-nav">
+                    <button className="custom-prev" style={{"background":"#17B4C8"}}>←</button>
+                    <button className="custom-next" style={{"background":"#17B4C8"}}>→</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+  );
+};

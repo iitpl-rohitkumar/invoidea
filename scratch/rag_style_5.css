@@ -1,0 +1,65 @@
+
+        .ai-and-ml-development .banner-content-wrapper ul li {
+            color: #000000 !important;
+        }
+        
+        .mobile-app-main {
+            min-height: 500px;
+            height: min-content !important;
+            position: relative;
+        
+            picture img {
+                position: absolute;
+                top: 0px;
+                height: 100%;
+                right: 0px;
+                width: 100%;
+                object-fit: cover;
+            }
+        
+            .container-fluid {
+                position: relative;
+        }
+        
+        .AI-powered-solutions-for-business-growth .accordion-item h3,
+        .AI-powered-solutions-for-business-growth .accordion-item p {
+            font-family: 'Mulish';
+        }
+        
+        /**/
+        .common-card {
+            background: linear-gradient(180deg, #121519, #0b0d10);
+        }
+        
+        .rag-final-card {
+            min-height: auto;
+            display: grid;
+            grid-template-columns: 180px 1fr 70px;
+            align-items: center;
+            padding: 35px 40px;
+            border: 0;
+        }
+        
+        .rag-card-top {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+        .tech-tab.active {
+            background: #0f1820;
+        }
+        
+        @media(max-width:768px) {
+        
+            .rag-final-card {
+                display: block;
+            }
+        }
+        
+        
+        @media (min-width: 1140px) {
+            .AI-powered-solutions-for-business-growth .accordion {
+                height: 515px !important;
+            }
+        }
+    

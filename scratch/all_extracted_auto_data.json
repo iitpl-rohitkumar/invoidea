@@ -1,0 +1,213 @@
+{
+  "hero": {
+    "subheading": "AI Automation Services",
+    "title": "Powering the Future of Business with AI",
+    "desc": "We build automation that works. Less manual effort, faster operations and systems your business can grow on.",
+    "cta": "Get a Free Consultation",
+    "desktopImg": "https://invoidea.com/service08/assets/images/background/AI-automation-services-banner.webp",
+    "mobileImg": "https://invoidea.com/service08/assets/images/background/ai-and-ml-development-banner-mobile.webp"
+  },
+  "leading": {
+    "subheading": "India's No.1 AI Automation Company",
+    "title": "The Future of Work Isn't Manual—It's AI-Automated",
+    "paragraphs": [
+      "At Invoidea, we build AI automation systems that take the load off your team. From customer support to data processing to internal workflows — we identify where your operations slow down and replace that friction with systems that run on their own.",
+      "Our AI automation services work with businesses of all sizes across India. Whether you're a growing startup or an established enterprise, we scope every project to what your business actually needs — nothing more, nothing less.",
+      "Every system we build is integrated with your existing tools, monitored after launch, and supported by the same team that built it. No handoffs. No guesswork. Just automation that works."
+    ],
+    "imgSrc": "https://invoidea.com/backend/public/storage/IT0101PL//media/1538/1776937174.webp"
+  },
+  "services": {
+    "subheading": "Advanced AI Automation Services In India",
+    "title": "Building the Automation Layer Behind Modern Businesses",
+    "intro": "Invoidea delivers end-to-end AI automation services that address the workflows consuming the most time, generating the most errors, and holding your business back from scale.",
+    "imgSrc": "https://invoidea.com/service08/assets/images/background/ai-automation-services-1.webp",
+    "items": [
+      {
+        "title": "Workflow Automation Solutions",
+        "shortText": "We replace labour-intensive manual processes with automation that minimizes input requirements and increases output..",
+        "fullText": "We replace labour-intensive manual processes with automation that minimizes input requirements and increases output. The rising complexity of business operations means that manually executing repetitive tasks is unsustainable. Tasks run smoothly and require minimal human interaction in the background so you can focus on your evidence work."
+      },
+      {
+        "title": "CRM and Sales Automation",
+        "shortText": "We integrate sales automation within CRM software to enhance efficiency and facilitate team working....",
+        "fullText": "We integrate sales automation within CRM software to enhance efficiency and facilitate team working. With sales cycles getting shorter and more competitive, sales teams simply can’t waste time entering data and following up on scheduling. Automation does all that work, leaving your team free to focus on closing deals."
+      },
+      {
+        "title": "Automated Customer Service",
+        "shortText": "We develop automated systems for handling customer inquiries, ticket routing and responses to simple questions....",
+        "fullText": "We develop automated systems for handling customer inquiries, ticket routing and responses to simple questions. Customer demand for immediate replies has never been greater and support teams aren’t able to manually scale to keep up with that. Automation provides reliability and consistency 24 hours a day without increasing your support team."
+      },
+      {
+        "title": "Document and Data Processing Automation",
+        "shortText": "We simplify the extraction, the processing and the arrangement of your business data found in your documents and forms....",
+        "fullText": "We simplify the extraction, the processing and the arrangement of your business data found in your documents and forms. The amount of paperwork businesses need to handle these days means that manual work is not just slow but error-prone and expensive. Automation decreases data input labor, enhances accuracy, and hastens workflows in the commercial, legal, and finance industries."
+      },
+      {
+        "title": "Marketing Automation Software",
+        "shortText": "We bring efficiency to marketing operations by automating campaigns, lead nurturing, and communication workflows from start to finish....",
+        "fullText": "We bring efficiency to marketing operations by automating campaigns, lead nurturing, and communication workflows from start to finish. Today, the modern marketer needs to hit the right person at the right time and that just can’t be done manually at scale. Automation also means you get reliable performance consistently without a human needing to babysit the system all the time."
+      },
+      {
+        "title": "Enterprise Process Automation",
+        "shortText": "We build enterprise level automation systems that span multiple departments and automate core business processes....",
+        "fullText": "We build enterprise level automation systems that span multiple departments and automate core business processes. As enterprises grow, the manual juggling act that is inter-department coordination turns into a major bottleneck that impedes growth and increases the potential for error. Automation cuts out this waste and helps keep the whole business in tune."
+      },
+      {
+        "title": "Robotic Process Automation (RPA)",
+        "shortText": "With RPA, we automate the processes that run your business, including those that are repetitive...",
+        "fullText": "With RPA, we automate the processes that run your business, including those that are repetitive, system-based, and time-consuming. Companies operate with dozens of legacy systems that require endless manual manipulation, and staff are spending hours every day performing low-skill, high-volume jobs. RPA achieves this without getting rid of costly system replacements or big infrastructure changes."
+      },
+      {
+        "title": "Business Process Automation",
+        "shortText": "We automate the manual business processes that allow you to run your business so you can do what you do best....",
+        "fullText": "We automate the manual business processes that allow you to run your business so you can do what you do best. In this accelerating business world, the slow down from human error and manual pass off directly leads to lost revenue and customer dissatisfaction. Automation ensures smooth operations with background running processes."
+      },
+      {
+        "title": "Automation Consulting",
+        "shortText": "We evaluate your business processes to find where automation can have the highest impact....",
+        "fullText": "We evaluate your business processes to find where automation can have the highest impact. Many companies understand they need to automate, but don’t know how to choose a place to start, or what processes would yield a real return. We offer a concise, structured plan that brings automation in line with your business objectives and priorities."
+      }
+    ]
+  },
+  "whyChoose": {
+    "subheading": "AI Automation Experts",
+    "title": "Why is Invoidea India’s Most Trusted AI Automation Company?",
+    "intro": "WInvoidea combines deep technical expertise with genuine operational understanding — delivering automation systems that perform under real business conditions, not just in controlled environments.",
+    "imgSrc": "https://invoidea.com/service08/assets/images/background/ai-automation-services-img.webp",
+    "items": [
+      {
+        "num": "01",
+        "title": "Automation Built Around Business Goals",
+        "desc": "Every solution we design is anchored in the specific operational outcomes your business needs to achieve. We do not recommend automation for its own sake — we recommend it where it will make a measurable difference."
+      },
+      {
+        "num": "02",
+        "title": "Reduced Manual Workloads Across Departments",
+        "desc": "Our systems take ownership of the repetitive work consuming your teams’ time — reducing error rates, improving throughput, and returning capacity to the people your business depends on most."
+      },
+      {
+        "num": "03",
+        "title": "Scalable Automation Infrastructure",
+        "desc": "We build with growth in mind. The automation systems Invoidea delivers are designed to expand alongside your operations — handling increased volume without requiring a parallel increase in headcount or manual oversight."
+      },
+      {
+        "num": "04",
+        "title": "Seamless Workflow Compatibility",
+        "desc": "We design automation to work within your existing environment from day one. Our AI automation company ensures that every system we deploy connects cleanly to the platforms and tools already in use across your business."
+      },
+      {
+        "num": "05",
+        "title": "Proven Track Record in Production Environments",
+        "desc": "As an experienced AI automation company in India, Invoidea has delivered automation systems across industries and operational environments. Our measure of success is sustained performance in production — not polished outcomes in a controlled test."
+      },
+      {
+        "num": "06",
+        "title": "Comprehensive Support After Deployment",
+        "desc": "Our involvement does not end at go-live. We monitor performance, resolve issues early, and continuously optimize as your data environment and business requirements evolve."
+      }
+    ]
+  },
+  "process": {
+    "subheading": "AI-Powered Automation",
+    "title": "Our Effective and Result Proven AI Automation Process",
+    "intro": "A Structured Approach to Every Automation Engagement\n                        Every project Invoidea delivers follows a proven, step-by-step process — so you know exactly what is being built, when it will be ready, and what it will deliver.",
+    "steps": [
+      {
+        "title": "Process Analysis",
+        "desc": "We begin by mapping your operations in detail. We identify the workflows consuming the most time, the manual steps generating the most errors and the automation opportunities that will create the most meaningful impact for your business.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FAAE1C\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                                <rect x=\"4\" y=\"3\" width=\"16\" height=\"18\" rx=\"2\"></rect>\n                                <path d=\"M8 7h8\"></path>\n                                <path d=\"M8 11h8\"></path>\n                                <path d=\"M8 15h5\"></path>\n                                <circle cx=\"6\" cy=\"7\" r=\"0.5\"></circle>\n                                <circle cx=\"6\" cy=\"11\" r=\"0.5\"></circle>\n                                <circle cx=\"6\" cy=\"15\" r=\"0.5\"></circle>\n                            </svg>"
+      },
+      {
+        "title": "Automation Planning",
+        "desc": "Discovery findings translate into a structured automation plan. Our AI automation agency\n                                defines the logic, workflow architecture, integration requirements, and the business outcomes that will determine whether the project has succeeded.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FAAE1C\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                                <rect x=\"3\" y=\"5\" width=\"6\" height=\"6\" rx=\"1.5\"></rect>\n                                <rect x=\"15\" y=\"5\" width=\"6\" height=\"6\" rx=\"1.5\"></rect>\n                                <rect x=\"9\" y=\"13\" width=\"6\" height=\"6\" rx=\"1.5\"></rect>\n                                <path d=\"M9 8h6\"></path>\n                                <path d=\"M12 11v2\"></path>\n                            </svg>"
+      },
+      {
+        "title": "Solution Development",
+        "desc": "Development runs in structured cycles with clear outputs at every stage. We build, review, and refine continuously that keeps the project on track and aligned with the agreed plan throughout.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FAAE1C\" stroke-width=\"1.5\">\n                                <polyline points=\"16 18 22 12 16 6\"></polyline>\n                                <polyline points=\"8 6 2 12 8 18\"></polyline>\n                            </svg>"
+      },
+      {
+        "title": "System Integration and Testing",
+        "desc": "Our ai-powered automation developers deploy automation workflows within your existing environment and test across expected scenarios, edge cases, and failure conditions before anything moves to production.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FAAE1C\" stroke-width=\"1.5\">\n                                <circle cx=\"12\" cy=\"12\" r=\"9\"></circle>\n                                <polyline points=\"9 12 11 14 15 10\"></polyline>\n                            </svg>"
+      },
+      {
+        "title": "Monitoring and Optimisation",
+        "desc": "After deployment, we remain actively involved — monitoring behaviour, resolving issues before they become disruptions, and improving performance continuously as your business and operational environment evolve.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#FAAE1C\" stroke-width=\"1.5\">\n                                <polyline points=\"22 12 18 12 15 21 9 3 6 12 2 12\"></polyline>\n                            </svg>"
+      }
+    ]
+  },
+  "industries": {
+    "subheading": "Customize AI Automation Solutions",
+    "title": "Sector-Specific Automation Expertise Across India’s Most Demanding Industries",
+    "intro": "Our AI automation services have been deployed in production across a wide range of industries. That depth of sector experience shapes how Invoidea approaches every new engagement — because automation that works in one environment does not automatically translate to another.",
+    "items": [
+      {
+        "title": "Healthcare",
+        "desc": "Our AI automation developers deploy carefully considered automation that supports patient communication, appointment coordination, administrative processing, and clinical workflow management — built to the compliance standards the sector demands.",
+        "icon": "https://invoidea.com/service08/assets/images/icons/ai-and-ml-development-Healthcare.webp"
+      },
+      {
+        "title": "E-Commerce and Retail",
+        "desc": "Our AI automation services automate inventory management, order processing, customer engagement workflows and returns handling, reducing manual coordination and improving operational consistency at scale.",
+        "icon": "https://invoidea.com/service08/assets/images/icons/ai-and-ml-development-Retail-and-Ecommerce.webp"
+      },
+      {
+        "title": "Education and Edtech",
+        "desc": "Our AI and automation service deploy automation makes educational operations more responsive — from student onboarding and support workflows to administrative processing and engagement communication.",
+        "icon": "https://invoidea.com/service08/assets/images/icons/ai-and-ml-development-Education.webp"
+      },
+      {
+        "title": "Real Estate",
+        "desc": "</path>\n                                <path d=\"M9 10l3-2 3 2v4H9z\"></path>\n                            </svg>\n                        </div>\n                        <div class=\"content\" bis_skin_checked=\"1\">\n                            <h5>Real Estate </h5>\n                            <p class=\"text-muted text-lg-center\">We automate lead management, property inquiry handling, documentation workflows, and client communication sequences — giving agents and brokers more time for the work that requires their expertise.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#d56f35\" stroke-width=\"1.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                                <path d=\"M12 21s7-5 7-10a7 7 0 1 0-14 0c0 5 7 10 7 10z\"></path>\n                                <path d=\"M9 10l3-2 3 2v4H9z\"></path>\n                            </svg>"
+      },
+      {
+        "title": "Manufacturing",
+        "desc": "Our AI automation agency in India brings automation to production scheduling, quality control reporting, procurement workflows, and internal operations — reducing the manual coordination overhead that accumulates across the factory floor.",
+        "icon": "https://invoidea.com/service08/assets/images/icons/ai-and-ml-development-Manufacturing.webp"
+      },
+      {
+        "title": "Finance and Banking",
+        "desc": "</path>\n                                <path d=\"M4 10v8\"></path>\n                                <path d=\"M8 10v8\"></path>\n                                <path d=\"M12 10v8\"></path>\n                                <path d=\"M16 10v8\"></path>\n                                <path d=\"M20 10v8\"></path>\n                                <path d=\"M3 18h18\"></path>\n                                <path d=\"M12 3l10 7H2z\"></path>\n                                </svg>\n                        </div>\n                        <div class=\"content\" bis_skin_checked=\"1\">\n                            <h5>Finance and Banking</h5>\n                            <p class=\"text-muted text-lg-center\">Invoidea delivers intelligent AI and automation in financial services that handle reporting, transaction processing, compliance checks, and document workflows with the accuracy and traceability that financial operations require.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#d56f35\" stroke-width=\"1.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n                                <path d=\"M2 10h20\"></path>\n                                <path d=\"M4 10v8\"></path>\n                                <path d=\"M8 10v8\"></path>\n                                <path d=\"M12 10v8\"></path>\n                                <path d=\"M16 10v8\"></path>\n                                <path d=\"M20 10v8\"></path>\n                                <path d=\"M3 18h18\"></path>\n                                <path d=\"M12 3l10 7H2z\"></path>\n                                </svg>"
+      },
+      {
+        "title": "Customer Service Businesses",
+        "desc": "</path>\n                                <path d=\"M42 34l-6 10h6l-4 10 10-14h-6l4-6z\" stroke=\"#de840b\" stroke-width=\"1.9\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n                            </svg>\n                        </div>\n                        <div class=\"content\" bis_skin_checked=\"1\">\n                            <h5>Customer Service Businesses</h5>\n                            <p class=\"text-muted text-lg-center\">For businesses where customer interaction volume is high and consistency is critical, our AI automated customer services for businesses to deliver faster response handling, accurate routing, and measurable improvements in resolution time across every channel.",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\" fill=\"none\">\n                                <path d=\"M38 10a10 10 0 0 0-9 15l-14 14a4 4 0 1 0 6 6l14-14a10 10 0 0 0 15-9l-6 4-5-1-1-5 4-6a10 10 0 0 0-4-1z\" stroke=\"#f79b1f\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" style=\" #de840b;\"></path>\n                                <path d=\"M42 34l-6 10h6l-4 10 10-14h-6l4-6z\" stroke=\"#de840b\" stroke-width=\"1.9\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n                            </svg>"
+      },
+      {
+        "title": "Logistics and Transportation",
+        "desc": "Our AI bot automation services for businesses brings automation to route optimisation, fleet coordination, shipment tracking, and supply chain communication — keeping operations moving without the manual overhead that slows response times.",
+        "icon": "https://invoidea.com/service08/assets/images/icons/ai-and-ml-development-Logistics-and-Supply-Chain.webp"
+      }
+    ]
+  },
+  "faq": {
+    "subheading": "FAQ's",
+    "title": "Quick Answers For Common Questions",
+    "items": [
+      {
+        "q": "What kinds of business work can be automated?",
+        "body": "<p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">More than most businesses initially expect. The straightforward candidates are anything rule-based and repetitive — the work that runs the same way every time and does not require judgment to execute.</span></p>\n<ul>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Customer support and ticket handling — queries get responded to, routed, and tracked without a human managing each one manually</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Lead tracking and follow-ups — records update automatically, reminders go out on time, nothing falls through because someone forgot to log it</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Report generation and data analysis — data pulls from existing systems and structures itself into usable reports without anyone spending half a day on it</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Data entry and record management — manual input gets replaced with real-time updates across systems, with significantly fewer errors</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Scheduling and calendar coordination — meetings, reminders, and appointments get managed without the back-and-forth</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Approval workflows — requests move through the right steps in the right order without sitting in someone's inbox waiting</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Document processing — invoices, forms, and files get extracted, organised, and processed automatically</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Internal operations — coordination across departments improves without adding management overhead</span></li>\n</ul>\n<p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">The businesses that get the most out of automation tend to start with one of these, get it running well, and then expand from there.</span><br></p>"
+      },
+      {
+        "q": "How do I know if my business needs automation?",
+        "body": "<p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">The signs are usually visible before businesses decide to act on them. If any of these sound familiar, the case for automation is probably stronger than it appears:</span><br></p>\n<ul>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Repetitive tasks are consuming time that should be going toward higher-value work</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">High volumes of data or customer communication are slowing teams down in ways that keep getting worse</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Manual processes are producing errors often enough that fixing them has become part of the workflow</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Internal coordination relies heavily on back-and-forth messages and follow-up reminders</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Operations have bottlenecks that everyone knows about but nobody has found time to fix</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">The honest question is not whether automation would help — in most of these situations it clearly would. It is which problem to address first and what a realistic implementation looks like given current systems and budget.</span></li>\n</ul>"
+      },
+      {
+        "q": "How much does automation development cost?",
+        "body": "<p><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">The cost depends on the extent of the automation project. Though there's much less expense for a smaller-scale pilot work flow, there is more expense for a full-blown enterprise implementation due to complexity and integrations. Type of project: A single workflow pilot costs less than full business-wide automation</span><br></p>\n<ul>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Number of workflows: The more processes you need, the more development effort and cost you incur.</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Complexity: More complex logic, rules and decision flows cost more.</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">System integration: Integration with CRM, ERP or more tools The pricing will be influenced by this.</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Level of customization: Customized solutions require longer development time and more resources.</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Maintenance requirements: Coverage for maintenance and upgrades may either be included or separately invoiced.</span></li>\n<li><span style=\"color: rgb(0,0,0);background-color: transparent;font-size: 11pt;font-family: Arial, sans-serif;\">Best place to start: A small pilot for a single high-impact process helps to debeck the cost curve clearly before scaling up.</span></li>\n</ul>"
+      }
+    ]
+  },
+  "reachOut": {
+    "subheading": "REACH OUT",
+    "title": "Partnering for Business Success - Let Our Experts Discover the Right Solutions!",
+    "desc": "Let's get started on your digital transformation journey. Submit your inquiry today and our experts\n                    will be in touch with you soon."
+  }
+}

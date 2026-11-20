@@ -1,0 +1,10 @@
+
+    .menu-group-btn{
+        display:flex;
+        gap:30px;
+    }
+button#submit{background:#f79b1f;color:#fff}
+@media(max-width:768px){#consultation-modal-talk h3{font-size:20px!important}.ai-btn{padding:9px 12px!important;min-width:125px!important;min-height:38px!important}
+}@media(max-width:424px){
+    #consultation-modal-talk .btn-close{top: 11px !important; right: 0 !important;}
+}

@@ -1,0 +1,180 @@
+<section class="footer-form-wrapper ptb position-relative" id="reach-out-form" style="background: url(https://invoidea.com/service08/assets/inv-images/background/banner/steps-bg-image.webp) no-repeat; background-size: cover;">
+    <div class="container-fluid" bis_skin_checked="1">
+        <div class="row g-lg-5 align-items-center" bis_skin_checked="1">
+            <div class="col-lg-5 mb-lg-0 mb-3" bis_skin_checked="1">
+                <h2 class="subheading">REACH OUT</h2>
+                <h3 class="heading-2">Partnering for Business Success - Let Our Experts Discover the Right Solutions!
+                </h3>
+                <p class="text-muted">
+                    Let's get started on your digital transformation journey. Submit your inquiry today and our experts
+                    will be in touch with you soon.
+                </p>
+                <div class="talk-card" bis_skin_checked="1">
+                    <h4>Not sure where to start?</h4>
+                    <p>
+                        Let’s simplify it. Talk to us directly — we’re here to help.
+                    </p>
+                    <button type="button" class="btn theme-btn" data-bs-toggle="modal" data-bs-target="#consultation-modal" aria-label="Talk To Experts">Talk to us
+                        <span>→</span></button>
+                </div>
+            </div>
+            <div class="col-lg-6 offset-lg-1" bis_skin_checked="1">
+                <div class="project-form" bis_skin_checked="1">
+                    <div class="row" bis_skin_checked="1">
+                        <div class="col-lg-12" bis_skin_checked="1">
+                            <form method="POST" action="https://invoidea.com/customformhandler?id=19" enctype="multipart/form-data" class="contact-form customFrom needs-validation" novalidate  name=REACH OUT>
+  <input type="hidden" name="_token" value="Xrr0Yh1ffBpbdAwKBUQc0PUaiDXrv4W1rStYhbrJ">  <div id="my_name_dUA1D4Z5yanuUMUp_wrap"  style="display: none" aria-hidden="true">
+        <input id="my_name_dUA1D4Z5yanuUMUp"
+               name="my_name_dUA1D4Z5yanuUMUp"
+               type="text"
+               value=""
+                              autocomplete="nope"
+               tabindex="-1">
+        <input name="valid_from"
+               type="text"
+               value="eyJpdiI6IlVTQkhGTDNuMFNFd1pDYWxiaGZsNEE9PSIsInZhbHVlIjoiMDR2WkYxOGs4eDl2S0dnaE9IUk9XQT09IiwibWFjIjoiOWUwY2RjYmUxZDNmNWEzMmIxMTI4ODI2YmU4ZjdiNWRhMzI3YWE0YmVjYmFlODE5YTA3N2VkYmNhYzhkNDI4NyIsInRhZyI6IiJ9"
+                              autocomplete="off"
+               tabindex="-1">
+    </div>
+  <input type="hidden" name="form_id" value="19" />
+  <input type="hidden" name="form_position" value="" />
+  <input type="hidden" name="page_source" value="/travel-app-development-company"/>
+  <input type="hidden" name="currentpage" id="currentpage" value="https://invoidea.com/travel-app-development-company">
+  <input type="hidden" name="form_loaded_at" value="1794836910">
+  
+    <div class="row">
+    
+        <div class="row">
+                                 <!-- Input Types Start-->
+            <div class=" mb-3 col-lg-6 col-sm-12 col-md-6 px-1 px-1 ">
+                <div class="form-group">
+                  <label for="fid_742" class="form-label">
+                      Full Name
+                                                <span class="text-danger">*</span>
+                                        </label>
+                  <input type="text" id="fid_742" placeholder="Full Name" class="form-control" name="full-name"  required  >
+                    <div class="invalid-feedback text-left"> Please Enter Full Name </div>
+                    <span class="red full-name-error"></span>
+                </div>
+            </div>
+            <!-- Input Types End-->
+                    
+
+          
+          
+          
+                                 <!-- Input Types Start-->
+            <div class=" mb-3 col-lg-6 col-sm-12 col-md-6 px-1 px-1 ">
+                <div class="form-group">
+                  <label for="fid_743" class="form-label">
+                      Email
+                                                <span class="text-danger">*</span>
+                                        </label>
+                  <input type="email" id="fid_743" placeholder="Enter Your Email" class="form-control" name="email"  required  >
+                    <div class="invalid-feedback text-left"> Please Enter Email </div>
+                    <span class="red email-error"></span>
+                </div>
+            </div>
+            <!-- Input Types End-->
+                    
+
+          
+          
+          
+                                 <!-- Input Types Start-->
+            <div class=" mb-3 col-12 col-lg-12 col-md-12 px-1 px-1 ">
+                <div class="form-group">
+                  <label for="fid_744" class="form-label">
+                      Phone Number
+                                                <span class="text-danger">*</span>
+                                        </label>
+                  <input type="text" id="fid_744" placeholder="Enter phone number" class="form-control" name="phone-number"  required  >
+                    <div class="invalid-feedback text-left"> Please Enter phone number </div>
+                    <span class="red phone-number-error"></span>
+                </div>
+            </div>
+            <!-- Input Types End-->
+                    
+
+          
+          
+          
+                              
+
+          
+          
+                    <!-- Drop Down Start -->
+          <div class="mb-3 px-1 col-12 col-lg-12 col-md-12 px-1">
+              <div class="form-group">
+                <label for="fid_747" class="form-label">
+                      Your Budget?
+                                        </label>
+                  <select id="fid_747" class="form-select select2" aria-label="Select a service you're looking for" name="your-budget" >
+                    <option selected disabled value="">Select Your Budget?</option>
+                                                                  <option value="Below $10K">Below $10K</option>
+                                              <option value=" $10K - $25K"> $10K - $25K</option>
+                                              <option value=" $25K - $50K"> $25K - $50K</option>
+                                              <option value=" $50K - $100K "> $50K - $100K </option>
+                                              <option value=" Above $100K"> Above $100K</option>
+                                                            </select>
+                  <div class="invalid-feedback text-left">
+                    
+                  </div>
+                  <span class="red your-budget-error"></span>
+              </div>
+          </div>
+          <!-- Drop Down End -->
+          
+                              
+
+          
+                    <!-- Textarea Start-->
+          <div class="col-12 col-lg-12 col-md-12 px-1  px-1 mb-3">
+              <div class="form-group">
+                <label for="fid_745" class="form-label">
+                      Project Brief
+                                        </label>
+                  <textarea class="form-control" rows="5" placeholder="Write it here..."
+                     id="fid_745" name="project-brief" 
+                      ></textarea>
+                  <div class="invalid-feedback text-left">   </div>
+                  <span class="red project-brief-error"></span>
+              </div>
+          </div>
+          <!-- Textarea End-->
+          
+          
+                              
+
+          
+          
+          
+                  </div>
+    
+
+    
+
+                                                                              
+                                                                              
+    
+    <div class="col-12">
+        <p class="nda-text mb-3">🛡 Your ideas are fully protected under our <strong>Non-Disclosure Agreement.</strong></p>
+        <div class="form-check nda-checkbox">
+            <input class="form-check-input" type="checkbox" id="ndaCopy" name="nda_copy">
+            <label class="form-check-label" for="ndaCopy"> Send me a copy of NDA </label>
+        </div>
+    </div>
+                                                    <div class="col-12 col-lg-12 col-md-12 px-1 mt-4">
+        <button type="submit" class="octf-btn octf-btn-primary w-100 btn btn-submit" id="submit" aria-label="form-submit">Submit</button>
+    </div>
+          </div>
+  </form>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

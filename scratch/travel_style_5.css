@@ -1,0 +1,36 @@
+
+    .mobile-app-main {
+         min-height: 500px;
+         height: min-content !important;
+         position: relative;
+     
+         picture img {
+             position: absolute;
+             top: 0px;
+             height: 100%;
+             right: 0px;
+             width: 100%;
+             object-fit: cover;
+         }
+     
+         .container-fluid {
+             position: relative;
+         }
+       
+         
+     }
+     .card-img-top {
+         border-radius: 10px;
+     }
+     
+     @media (min-width: 768px) {
+         .border-bg .industry-main-heading span:after {
+             background: linear-gradient(90deg, #17B4C8 0, #e1940000 100%)!important;
+         }
+     }
+     
+     @media (min-width: 992px) {
+         .taxi-wrapper.industry-app-feature-wrapper .right-child ::after {
+             background: linear-gradient(270deg, #17B4C8 0, #17B4C8 100%)!important;
+         }
+     }

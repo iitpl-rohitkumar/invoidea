@@ -1,0 +1,37 @@
+
+        .mobile-app-main {
+            min-height: 500px;
+            height: min-content !important;
+            position: relative;
+        
+            picture img {
+                position: absolute;
+                top: 0px;
+                height: 100%;
+                right: 0px;
+                width: 100%;
+                object-fit: cover;
+            }
+        
+            .container-fluid {
+                position: relative;
+            }
+        }
+        .icon-main .fas {  
+              color: #f79b1f;
+            font-size: 30px;
+        }
+        @media (min-width: 1140px) {
+            .AI-powered-solutions-for-business-growth .accordion {
+        height: 500px!important;
+            }
+        }
+        .AI-powered-solutions-for-business-growth .image img {
+            height: 803px!important;}
+        .AI-powered-solutions-for-business-growth .accordion-item p,.AI-powered-solutions-for-business-growth .accordion-item h3{    font-family: Mulish, sans-serif;}
+        /*@media (min-width: 1024px) {*/
+        /*    .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(5), .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(6), .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(7), .AI-powered-solutions-for-every-industry .col-lg-3:nth-child(8) {*/
+        /*border-bottom: 1px solid rgba(0, 0, 0, .2)!important;*/
+        /*    }*/
+        /*}*/
+    
